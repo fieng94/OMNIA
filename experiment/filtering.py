@@ -36,3 +36,15 @@ def create_filtred_df(df:pd.DataFrame, candidates_df:pd.DataFrame, missing_df:pd
     model, train_df = train_transe_embedding(df)
     filtred_df = get_filtred_df(model,candidates_df, missing_df, train_df)
     return filtred_df
+
+def create_sample(df:pd.DataFrame, sample_size:int=500, true_cand_ratio:float=0.5) -> pd.DataFrame:
+    """
+    Creating sample of the dataframe
+    """
+    true_cand_size = int(sample_size * true_cand_ratio)
+    false_cand_size = sample_size - true_cand_size
+    true_cand_df = df[df['Missing'] == 1].sample(true_cand_size)
+    false_cand_df = df[df['Missing'] == 0].sample(false_cand_size)
+    df_sample = pd.concat([true_cand_df, false_cand_df])
+    df_sample = df_sample.sample(frac=1)
+    return df_sample
