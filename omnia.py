@@ -42,7 +42,7 @@ def main(path, output_dir, setting="triples", subsetting='zero'):
         elif subsetting == 'context':
             pass
         elif subsetting == 'rag':
-            pass
+            score_list = prep_llm.RAG_sentence(df, retriever)
     # Result extraction
     print('Finished Evaluation')
     print(f'Writing output in {output_dir}')
@@ -75,6 +75,6 @@ if __name__ == "__main__":
                             Use arg 'zero' for zero-shot, 'context' for in-context and 'rag' for RAG")
     args = parser.parse_args()
     main(path=args.path, 
-         output_dir=args.path,
+         output_dir=args.output_dir,
          setting=args.setting, 
          subsetting=args.subsetting)
