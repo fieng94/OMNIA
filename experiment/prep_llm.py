@@ -139,9 +139,46 @@ def RAG_triple(df:pd.DataFrame, retriever):
 
     return score_list
 
+def triple2sentence(triple):
+    template = """
+    1. Your job is only to translate triple into sentence, no matter if it is correct or not
+    2. A triple is two entities (head and tail) linked by a relation
+    3. Transform the following triples into a sentence: '{triple}'
+    4. If the triple present incorrect fact, still translate this as it is
+    5. Do not make negative sentence 
+    Answer: Give the sentence."""
+    sentence = prompt_answer(template, triple=triple)
+    return sentence
 
 def plain_sentence(df:pd.DataFrame):
-    return None
+    template = """
+    1. Evaluate if the sentence represent a correct fact or not.\n
+    2. Is the triple correct: answer "1" if it is correct and "0" otherwise.\n
+    3. If you don't know the answer, just say that "-1"\n
+    4. Start the answer with 'Score:'\n
+
+    Sentence: {sentence}
+
+    Helpful Answer:"""
+    sentence_list = []
+    for item in df.iterrows():
+        triple = item[1]
+        head = triple['Head']
+        relation = triple['Relation']
+        tail = triple['Tail']
+        triple_sentence = f"Head:{head}\t Relation:{relation}\t Tail:{tail}"
+        sentence = triple2sentence(triple_sentence)
+        sentence_list.append(sentence)
+        score_list = []
+
+    for index, triple in enumerate(sentence_list):
+        score = prompt_answer(template, sentence=sentence)
+        score_list.append(score)
+        if index%100 == 0:
+            print(f'{index} / {len(sentence_list)}')
+    return score_list
+
+
 
 
 

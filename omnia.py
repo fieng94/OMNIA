@@ -12,7 +12,7 @@ import os
 
 def main(path, output_dir, setting="triples", subsetting='zero'):
     # Checking if arg are correct
-    assert setting in ['triples', 'sentence'], f"{setting} does not exist as setting!"
+    assert setting in ['triples', 'sentences'], f"{setting} does not exist as setting!"
     assert subsetting in ['zero','context','rag'], f"{subsetting} does not exist as subsetting!"
     # Read data
     print(f'Reading data at {path}')
@@ -36,6 +36,13 @@ def main(path, output_dir, setting="triples", subsetting='zero'):
             score_list = prep_llm.context_triple(filtred_df_sample, df)
         elif subsetting == 'rag':
             score_list = prep_llm.RAG_triple(filtred_df_sample, retriever)
+    elif setting == 'sentences':
+        if subsetting == 'zero':
+            score_list = prep_llm.plain_sentence(df)
+        elif subsetting == 'context':
+            pass
+        elif subsetting == 'rag':
+            pass
     # Result extraction
     print('Finished Evaluation')
     print(f'Writing output in {output_dir}')
@@ -46,12 +53,12 @@ def main(path, output_dir, setting="triples", subsetting='zero'):
     prediction = filtred_df_sample['Pred']
     accuracy, f1_score, recall, precision = result.compute_score(prediction, ground_truth)
     # output evaluated sample
-    output_eval_df_path = os.path.join(output_dir,setting,subsetting,'evaluated_df.csv')
+    output_eval_df_path = os.path.join(output_dir,f'{setting}_{subsetting}_evaluated_df.csv')
     filtred_df_sample.to_csv(output_eval_df_path)
     # output score
     res = [accuracy,precision,recall,f1_score]
     result_df =  pd.DataFrame([res], columns=["Accuracy", "Precision", "Recall", "F1 score"])
-    output_res_df_path = os.path.join(output_dir,setting,subsetting,'results.csv')
+    output_res_df_path = os.path.join(output_dir,f'{setting}_{subsetting}_results.csv')
     result_df.to_csv(output_res_df_path)
 
 
