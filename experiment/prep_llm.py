@@ -52,9 +52,49 @@ def plain_triple(df:pd.DataFrame):
         triple_list.append(triple_sentence)
 
     score_list = []
-    for triple in triple_list:
+    for index,triple in enumerate(triple_list):
         score = prompt_answer(template, triple=triple)
         score_list.append(score)
+        if index%100 == 0:
+            print(f'{index} / {len(triple_list)}')
+    return score_list
+
+def context_triple(evaluation_df:pd.DataFrame, original_df:pd.DataFrame):
+    template = """
+    1. Use the following pieces of context to determine if the final triple present correct fact or not.\n
+    2. Is the triple correct: answer "1" if it is correct and "0" otherwise.\n
+    3. If you don't know the answer, just say that "-1"\n
+    4. Start the answer with 'Score:'\n
+    5. A triple represent a relation between the head entity and the tail entity\n
+
+    Here similar triples to help you make a decision:
+    Context: {context}
+    Here the triple to evaluate:
+    Triple: {triple}
+
+    Helpful Answer:"""
+    context_list =  []
+    triple_list = []
+    for item in evaluation_df.iterrows():
+        context_triple = []
+        triple = item[1]
+        head = triple['Head']
+        relation = triple['Relation']
+        tail = triple['Tail']
+        triple_sentence = f"Head:{head}\t Relation:{relation}\t Tail:{tail}"
+        context_triple.append(original_df[original_df['Head'] == head].sample(1))
+        context_triple.append(original_df[original_df['Relation'] == relation].sample(1))
+        context_triple.append(original_df[original_df['Tail'] == tail].sample(1))
+        context_list.append(context_triple)
+        triple_list.append(triple_sentence)
+
+    score_list = []
+    for index, triple in enumerate(triple_list):
+        context = context_list[index]
+        score = prompt_answer(template, triple=triple, context=context)
+        score_list.append(score)
+        if index%100 == 0:
+            print(f'{index} / {len(triple_list)}')
     return score_list
 
 def RAG_triple(df:pd.DataFrame, retriever):
@@ -90,12 +130,15 @@ def RAG_triple(df:pd.DataFrame, retriever):
         triple_list.append(triple_sentence)
 
     score_list = []
-    for triple in triple_list:
+    for index, triple in enumerate(triple_list):
         context = get_context_list(triple)
         score = prompt_answer(template, triple=triple, context=context)
         score_list.append(score)
+        if index%100 == 0:
+            print(f'{index} / {len(triple_list)}')
 
     return score_list
+
 
 def plain_sentence(df:pd.DataFrame):
     return None
