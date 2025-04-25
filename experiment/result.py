@@ -1,3 +1,5 @@
+from sklearn.metrics import confusion_matrix
+
 def clean_score(list_score) -> list[float]:
     list_score = [item.rstrip('.') if item.endswith('.') else item for item in list_score]
     list_score = [0 if item == '' else item for item in list_score]
@@ -17,3 +19,15 @@ def extract_score(text:str)->str:
 
     # Extract and return the number using slicing
     return text[start_index:end_index]
+
+def compute_score(prediction, ground_truth):
+    cm = confusion_matrix(ground_truth, prediction)
+    TN = cm[0][0]
+    FN = cm[1][0]
+    TP = cm[1][1]
+    FP = cm[0][1]
+    accuracy = (TN + TP) / (TN + TP + FN + FP)
+    f1_score = (2 * TP) / (2 * TP + FP + FN)
+    recall = TP / (TP + FN)
+    precision = TP / (TP + FP)
+    return accuracy, f1_score, recall, precision
