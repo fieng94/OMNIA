@@ -32,6 +32,21 @@ def prompt_answer(prompt_template:str, **kwargs) -> str:
     result = chain.invoke(kwargs)
     return result
 
+def get_triple_sentence(triple):
+    head = triple['Head']
+    relation = triple['Relation']
+    tail = triple['Tail']
+    triple_sentence = f"Head:{head}\t Relation:{relation}\t Tail:{tail}"
+    return triple_sentence
+
+def get_triple_list(df):
+    triple_list = []
+    for item in df.iterrows():
+        triple = item[1]
+        triple_sentence = get_triple_sentence(triple)
+        triple_list.append(triple_sentence)
+    return triple_list
+
 def plain_triple(df:pd.DataFrame):
     template = """
     1. Evaluate if the triple represent a correct fact or not.\n
@@ -42,14 +57,7 @@ def plain_triple(df:pd.DataFrame):
     Triple: {triple}
     Helpful Answer:"""
 
-    triple_list = []
-    for item in df.iterrows():
-        triple = item[1]
-        head = triple['Head']
-        relation = triple['Relation']
-        tail = triple['Tail']
-        triple_sentence = f"Head:{head}\t Relation:{relation}\t Tail:{tail}"
-        triple_list.append(triple_sentence)
+    triple_list = get_triple_list(df)
 
     score_list = []
     for index,triple in enumerate(triple_list):
@@ -120,15 +128,7 @@ def RAG_triple(df:pd.DataFrame, retriever):
             new_context_list.append(context)
         return new_context_list
     
-    triple_list = []
-    for item in df.iterrows():
-        triple = item[1]
-        head = triple['Head']
-        relation = triple['Relation']
-        tail = triple['Tail']
-        triple_sentence = f"Head:{head}\t Relation:{relation}\t Tail:{tail}"
-        triple_list.append(triple_sentence)
-
+    triple_list = get_triple_list(df)
     score_list = []
     for index, triple in enumerate(triple_list):
         context = get_context_list(triple)
@@ -147,8 +147,18 @@ def triple2sentence(triple):
     4. If the triple present incorrect fact, still translate this as it is
     5. Do not make negative sentence 
     Answer: Give the sentence."""
+
     sentence = prompt_answer(template, triple=triple)
     return sentence
+
+def get_sentence_list(df):
+    sentence_list = []
+    for item in df.iterrows():
+        triple = item[1]
+        triple_sentence = get_triple_sentence(triple)
+        sentence = triple2sentence(triple_sentence)
+        sentence_list.append(sentence)
+    return sentence_list
 
 def plain_sentence(df:pd.DataFrame):
     template = """
@@ -160,19 +170,42 @@ def plain_sentence(df:pd.DataFrame):
     Sentence: {sentence}
 
     Helpful Answer:"""
-    sentence_list = []
-    for item in df.iterrows():
-        triple = item[1]
-        head = triple['Head']
-        relation = triple['Relation']
-        tail = triple['Tail']
-        triple_sentence = f"Head:{head}\t Relation:{relation}\t Tail:{tail}"
-        sentence = triple2sentence(triple_sentence)
-        sentence_list.append(sentence)
-        score_list = []
-
-    for index, triple in enumerate(sentence_list):
+    sentence_list = get_sentence_list(df)
+    score_list = []
+    for index, sentence in enumerate(sentence_list):
         score = prompt_answer(template, sentence=sentence)
+        score_list.append(score)
+        if index%100 == 0:
+            print(f'{index} / {len(sentence_list)}')
+    return score_list
+
+def RAG_sentence(df, retriever):
+    template = """
+    1. Use the following pieces of context to determine if the sentence represent correct fact or not.\n
+    2. Is the sentence stating correct facts: answer "1" if it is correct and "0" otherwise.\n
+    3. If you don't know the answer, just say that "-1"\n
+    4. Start the answer with 'Score:'\n
+
+    Context: {context}
+
+    Sentence: {sentence}
+
+    Helpful Answer:"""
+
+    def get_context_list(sentence):
+        new_context_list = []
+        context_list =  retriever.invoke(sentence)
+        for context in context_list:
+            context = context.page_content
+            context = triple2sentence(context)
+            new_context_list.append(context)
+        return new_context_list
+
+    sentence_list = get_sentence_list(df)
+    score_list = []
+    for index, sentence in enumerate(sentence_list):
+        context = get_context_list(sentence)
+        score = prompt_answer(template, sentence=sentence, context=context)
         score_list.append(score)
         if index%100 == 0:
             print(f'{index} / {len(sentence_list)}')
