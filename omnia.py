@@ -4,32 +4,41 @@ import experiment.preprocess as preprocess
 ## KGE FILTERING
 import experiment.filtering as filtering
 ## LLM EVALUATION
-import experiment.filtering as prep_llm
+import experiment.prep_llm as prep_llm
 import experiment.result as result
 import numpy as np
 import pandas as pd
 import os
 
 def main(path, output_dir, setting="triples", subsetting='zero'):
+    # Checking if arg are correct
+    assert setting in ['triples', 'sentence'], f"{setting} does not exist as setting!"
+    assert subsetting in ['zero','context','rag'], f"{subsetting} does not exist as subsetting!"
     # Read data
+    print(f'Reading data at {path}')
     df = pd.read_csv(path)
     # Generate missing data candidates
+    print('Generating missing data candidates')
     evaluation_df, candidates_df, missing_df = preprocess.create_experiment_df(path)
     # Filter using KGE
+    print('Filtering using Knowledge Graph Embedding (TransE)')
     filtred_df = filtering.create_filtred_df(df, evaluation_df, missing_df)
     filtred_df = filtred_df.merge(evaluation_df, how='left')
-    filtred_df_sample = filtering.create_sample(filtred_df,sample_size= 500, true_cand_ratio= 0.5)
+    filtred_df_sample = filtering.create_sample(filtred_df,sample_size= 500, true_cand_ratio= 0.5)    
     # Candidate validation using LLM
+    print('Evaluation of missing data candidate')
     if subsetting == 'rag':
         retriever = prep_llm.create_retriever(path, 2)
     if setting == 'triples':
         if subsetting == 'zero':
             score_list = prep_llm.plain_triple(filtred_df_sample)
-        if subsetting == 'context':
+        elif subsetting == 'context':
             score_list = prep_llm.context_triple(filtred_df_sample, df)
-        if subsetting == 'rag':
+        elif subsetting == 'rag':
             score_list = prep_llm.RAG_triple(filtred_df_sample, retriever)
     # Result extraction
+    print('Finished Evaluation')
+    print(f'Writing output in {output_dir}')
     new_score_list = [result.extract_score(score) for score in score_list]
     new_score_list = result.clean_score(new_score_list)
     filtred_df_sample['Pred'] = new_score_list

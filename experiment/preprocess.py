@@ -32,7 +32,7 @@ def create_ground_truth(candidates_df:pd.DataFrame, missing_df:pd.DataFrame, nb_
     evaluation_df = evaluation_df.sample(frac = 1)
     return evaluation_df
 
-def create_experiment_df(path:str, sample_proportion:float=0.8, nb_true_cand:int=0, nb_false_cand:int=0) -> tuple[pd.DataFrame]:
+def create_experiment_df(path:str, sample_proportion:float=0.8, nb_true_cand:int=0, nb_false_cand:int=0) -> tuple:
     """
     Read a csv file with triples, generated the candidates and the ground truth
     return in that order :  evaluation df   : to evaluate the method
