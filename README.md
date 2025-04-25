@@ -1,4 +1,4 @@
-# KGC_RAG
+# OMNIA
 Solving Knowledge Graph Completion issues with Retrival Augmented Generation
 
 ## Activate environnement
