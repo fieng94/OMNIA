@@ -1,0 +1,501 @@
+,Head,Relation,Tail,Missing,distance
+215,Hugh Hunt,award,Eric Dane,0,1.2087587
+1069,Thomas Jane,award,Robert Ridgely,1,0.6466625
+737,The Greatest Story Ever Told,film,Jason Reitman,0,1.6717225
+191,Anupam Kher,award,Ed Wood,0,0.9716426
+431,Laurence Mark,award,Tate Donovan,0,1.2173926
+188,Marvin Gaye,people,United States of America,1,1.6389568
+838,The Messenger,film,romance film,1,1.8000174
+309,Saturday Night's Main Event,award,James L. Brooks,0,1.2896451
+235,Peter Weller,award,Dexter,1,1.1804075
+250,Matt Frewer,award,Paul Dini,0,1.2692206
+179,C. J. Cherryh,award,Nebula Award for Best Novel,1,1.052524
+449,Piranha 3DD,film,video,1,1.5449532
+789,Cate Blanchett,award,Viggo Mortensen,1,0.83788973
+416,Academy Award for Best Sound Editing,award,80th Academy Awards,1,0.44181466
+624,Transformers: Dark of the Moon,film,Bahrain,1,1.4185158
+95,Crunk,music,Curtis Mayfield,0,1.5033231
+750,Ireland,location,University of Strathclyde,0,0.674437
+643,Adrian,award,Chiwetel Ejiofor,0,1.388419
+155,water polo,olympics,mountain biking,0,0.54942447
+65,2012 Summer Olympics,olympics,mountain biking,1,0.6450181
+88,Shilpa Shetty,award,Mary Kay Place,0,1.1393944
+253,Lori Alan,people,songwriter,0,1.7811022
+398,John Leguizamo,award,Earl Scruggs,0,1.1326109
+632,Shatrughan Sinha,people,marriage,1,1.5051194
+931,R. Madhavan,influence,Johnny Carson,0,0.59807616
+819,Madhuri Dixit,award,Kevin Costner,0,1.580152
+163,Lyle Lovett,people,singer-songwriter,1,1.8247811
+546,Willie Nelson,people,singer-songwriter,1,1.5670987
+102,Grammy Award for Best R&B Song,award,2002 Grammy Awards,1,0.25007245
+707,Freddie Young,award,Matthew Morrison,0,0.6260869
+705,Franklin Delano Roosevelt,award,Tony Award for Best Original Score,0,1.2323886
+1019,Timothy Spall,award,Ray Wise,0,0.6743738
+254,Toby Keith,award,Grammy Award for Best Country Collaboration with Vocals,1,0.5360248
+723,Matthew Morrison,award,Maria Bello,0,1.6624781
+448,master's degree,education,Boston College,1,1.2369118
+923,Bob Dylan,award,Grammy Award for Best R&B Song,0,1.2066592
+864,Eric Idle,award,Bobby Cannavale,0,0.68991786
+22,The Departed,award,National Society of Film Critics Award for Best Actor,0,0.7617171
+879,Julianne Moore,award,Eileen Atkins,0,0.5655271
+686,Transformers: Dark of the Moon,film,Indonesia,1,1.3433167
+607,BAFTA Award for Best Special Visual Effects,award,The Fugitive,1,1.343415
+745,John Wood,award,Kate Walsh,0,0.5420102
+120,The League of Extraordinary Gentlemen,film,thriller,1,1.4927024
+1055,Michael C. Hall,award,Friends,0,0.71868956
+908,Jeff Bridges,award,Richard Hunt,0,0.8659753
+67,Tom Stoppard,award,MTV Movie Award for Best Comedic Performance,0,0.95516783
+153,Veer-Zaara,award,Manoj Kumar,0,1.6976544
+815,avant-garde,music,Frank Zappa,0,1.5534915
+199,AACTA Award for Best Cinematography,award,Flight,0,0.94481647
+1086,Chris Penn,award,Saturn Award for Best Actor,0,1.2237877
+117,Cher,award,Frasier,0,0.6076632
+587,George Clinton,award,Naveen Andrews,0,1.4640543
+1005,Jeff Richmond,award,MTV Video Music Award for Best Direction,0,1.7198211
+639,Christina Hendricks,award,Eric Dane,0,1.1093351
+946,EMI Records,music,Megadeth,0,0.9174302
+631,New York,location,Baptist,1,0.31114367
+548,Kyle MacLachlan,people,male organism,1,1.6673206
+843,Matthew Bellamy,people,Berlin,0,1.6883059
+386,The Guard,film,Australia,0,1.3467246
+476,diving,military,New Zealand,0,0.41173825
+862,Julie & Julia,film,production sound mixer,1,1.5056323
+1080,Penelope Wilton,award,Jim Carter,1,1.1240335
+583,Juneau,location,Agra,0,1.3501606
+171,The Devil's Double,film,Japan,1,1.6926385
+405,Channing Tatum,people,male organism,1,1.5749533
+955,Jack Kirby,award,30 Rock,0,1.3260934
+194,Dane Cook,award,T-Pain,0,0.7857519
+4,Christina Applegate,award,Golden Raspberry Award for Worst Actor,0,1.0759457
+496,Theodore Roosevelt,award,Primetime Emmy Award for Outstanding Guest Actor in a Comedy Series,0,0.88004607
+290,The Reader,film,Germany,1,1.4952835
+741,Robert Vaughn,award,Primetime Emmy Award for Outstanding Made for Television Movie,0,1.5446327
+754,Solomon Islands,location,Lakeland,0,0.9527944
+99,Patch Adams,award,I Spy,0,0.9719526
+566,Evangeline Lilly,award,Ian Somerhalder,0,0.9994812
+1023,The Human Stain,award,Chris Cooper,0,1.0143173
+627,Traffic,award,Jacob Vargas,1,0.5920684
+420,1972 Summer Olympics,location,Lexington,0,0.7474528
+54,BAFTA Award for Best Adapted Screenplay,award,The Constant Gardener,1,0.6978064
+630,Paul McCartney,people,Dublin,0,1.8051566
+886,Matt Chamberlain,award,David Schwimmer,0,1.1615323
+182,Agnes Moorehead,award,Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series,1,0.78083557
+159,soprano saxophone,music,alto saxophone,1,1.4988345
+804,Gerard Butler,people,Glasgow,1,1.809213
+840,University of Iowa,education,Alpha Delta Pi,1,1.4759299
+200,Evangeline Lilly,award,Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Drama Series,1,0.67802846
+999,Mario Van Peebles,people,actor,1,1.7848933
+1014,Sheryl Crow,award,will.i.am,0,1.3000599
+227,Ringo Starr,music,Pigface,0,1.7068772
+137,Gina McKee,award,Dennis Quaid,0,1.0388153
+27,Merv Griffin,award,Independent Spirit Award for Best Supporting Male,0,1.0369637
+1025,Home Alone,film,Portugal,1,1.4442546
+15,The Three Musketeers,film,Denmark,1,1.5493586
+161,Anna Gunn,award,Albert Finney,0,1.2707052
+969,Eugene Levy,award,Dustin Hoffman,0,1.1471133
+578,Winnie the Pooh,film,Australia,0,1.6980549
+47,L.A. Reid,award,Crossroads,0,1.3405153
+55,Greene County,military,Denmark,0,1.2295574
+821,Denver Broncos,american_football,fullback,1,0.9403015
+203,Eric Clapton,award,"Grammy Award for Best Song Written for a Motion Picture, Television or Other Visual Media",1,0.4682438
+266,Judy Greer,film,DVD,0,1.4515005
+440,Boys Don't Cry,award,Golden Globe Award for Best Foreign Language Film,0,1.0308969
+691,hard rock,music,The Offspring,1,1.4116755
+147,Helsingborg,media_common,Das Boot,0,1.8264842
+269,Clackamas County,location,Pacific Time Zone,1,1.0991722
+997,Peter Stormare,award,Greg Daniels,0,0.7182419
+328,James Wilby,award,Eileen Atkins,1,0.72765195
+524,Tom Stoppard,award,Tony Award for Best Play,1,1.120511
+847,Academy Award for Best Actress,award,Million Dollar Baby,1,0.53056395
+506,Master of Arts,education,Emerson College,1,1.2908297
+519,Mike Leigh,award,Writers Guild of America Award for Best Original Screenplay,1,0.8017612
+367,David Mamet,award,Filmfare Award for Best Director,0,1.561076
+135,Joe Mantegna,award,Barry Pepper,0,1.1063734
+170,Manchester United F.C.,soccer,forward,1,0.8279362
+952,flute,music,electric guitar,1,1.742542
+187,Brazil,military,Yugoslavia,1,0.7177285
+774,Olivia Wilde,award,Gene Hackman,0,0.7090769
+415,viola,music,The Incredible String Band,1,1.8247592
+499,Ray Wise,award,Tate Donovan,1,0.822912
+363,National Board of Review Award for Best Actor,award,Jamie Foxx,1,1.1144627
+903,Young Frankenstein,award,National Film Registry,1,0.55290157
+629,Joni Mitchell,music,Jackson Browne,0,1.6218971
+429,Silvio Horta,award,Marcus Miller,0,1.401841
+948,Dominic Monaghan,award,Liv Tyler,1,0.70254236
+958,John Coltrane,award,Hogan Sheffer,0,1.1802992
+41,United Kingdom,location,Leicester,1,0.2984919
+217,Gandhi,award,Missing,0,1.0659242
+25,Step Up Revolution,film,Iceland,1,1.5488245
+1074,Academy Award for Best Cinematography,award,The Exorcist,1,0.5453703
+976,swimming,olympics,Uruguay,1,0.3753257
+361,Alan Silvestri,award,Latin Grammy Award for Best Male Pop Vocal Album,0,1.2431526
+381,Golden Globe Award for Best Director,award,The Elephant Man,1,0.89431155
+298,The Song of Bernadette,film,Australia,1,1.485781
+871,Anthony Kiedis,award,Hong Kong Film Award for Best New Performer,0,1.2081385
+571,alternative rock,music,The Flaming Lips,1,0.92705077
+1060,Bruce Cohen,people,actor,1,1.6940768
+181,Grammy Award for Best Male Pop Vocal Performance,award,2000 Grammy Awards,1,1.1473055
+950,Bruce Sterling,award,James Taylor,0,1.5708289
+390,Dredd,award,MTV Movie Award for Best Movie,0,0.80614245
+906,Cinderella Man,award,Jack Lemmon,0,0.24824457
+482,Joseph Conrad,award,Patty Loveless,0,0.8865974
+914,Fairfield,location,Astoria,0,1.4301707
+702,South Pacific,award,William A. Horning,0,0.63389325
+510,guitar,music,Billy Joel,1,1.0955983
+204,Texas,location,United States dollar,1,0.8119435
+968,Hope Springs,film,Australia,1,1.7336383
+348,BAFTA Award for Best Film,award,The Last Picture Show,1,0.65444845
+1070,bass clarinet,music,Muse,0,1.6211799
+717,University of Rochester,education,economics,1,1.4929556
+610,Sierra Leone,olympics,Colombia,0,0.55317193
+184,Ratatouille,film,comedy film,1,1.8003484
+729,Dundee Football Club,sports,white,1,1.5598773
+12,National Society of Film Critics Award for Best Supporting Actor,award,Beginners,1,0.9316188
+919,Treat Williams,award,Independent Spirit Award for Best Male Lead,1,0.9671129
+174,Glen Morgan,award,Alfred Molina,0,1.2598684
+889,Kate Winslet,people,theatre director,0,1.8303959
+678,George Benson,music,Eddie Vedder,0,1.6788114
+810,Christine Baranski,people,marriage,1,1.5712701
+393,Paul Dano,award,Abigail Breslin,1,0.49676928
+484,Mark Johnson,award,Elliott Gould,0,0.5373287
+391,Chris Sheridan,people,screenwriter,1,1.8117434
+611,Jennifer Garner,award,Tommy Lee Jones,0,0.7136307
+697,Top Hat,location,United States dollar,0,1.582192
+273,Elizabeth Hurley,award,An Ideal Husband,0,1.6600722
+785,Val Kilmer,award,Golden Raspberry Award for Worst Supporting Actor,1,1.2477456
+289,Ohio,location,Eastern Time Zone,1,0.6966957
+347,Inception,film,set decorator,1,1.6229602
+377,Judy Garland,award,Missy Elliott,0,0.8848079
+458,David Lean,award,Writers Guild of America Award for Best Adapted Screenplay,1,1.4003152
+1042,BAFTA Award for Best Film,award,The Truman Show,1,0.70524734
+956,Gary Lucchesi,award,Sony Pictures Entertainment,0,1.3364149
+590,Master of Arts,education,economics,1,1.2241726
+397,Tonino Guerra,award,Independent Spirit Award for Best Director,0,0.7675114
+742,Anupam Kher,award,Matthew McConaughey,0,1.1811398
+172,swimming,olympics,Indonesia,1,0.5617791
+694,Ray Moyer,award,Richard Day,1,1.1386275
+488,Don McKellar,people,Toronto,1,1.242464
+263,Marcel Duchamp,award,Sandra Oh,0,1.370644
+761,The Hunger Games,film,Israel,1,1.6137345
+83,Marco Beltrami,award,First National,0,1.5387987
+836,The Transformers: The Movie,award,Academy Award for Best Production Design,0,0.70503825
+360,Abe Burrows,award,MTV Movie Award for Best Song from a Movie,0,1.4063807
+71,The White Stripes,award,Humberto Gatica,0,0.60551816
+93,Steve Buscemi,award,Gretchen Mol,1,1.0005239
+812,Batman Begins,film,Mexico,1,1.5182158
+749,David Byrne,award,MTV Video Music Award for Best Visual Effects,1,0.895174
+780,Bernie Brillstein,award,The Music Man,0,1.0042077
+1088,University of Chicago,education,law,0,1.4660951
+600,Jerry Orbach,award,The Quiet Man,0,1.0080867
+68,H. Jon Benjamin,award,Glen Morgan,0,1.2493703
+586,Friz Freleng,award,Primetime Emmy Award for Outstanding Supporting Actor in a Comedy Series,0,1.1036097
+226,Wes Craven,award,Andrew Lloyd Webber,0,0.8240458
+596,North Korea,location,Haverhill,0,0.80139726
+16,Gabriel Yared,award,Golden Globe Award for Best Original Score,1,1.0061011
+18,Academy Award for Best Original Score,award,L.A. Confidential,1,0.7952925
+512,Johnny Mandel,people,Cuba,0,1.5914637
+648,Golden Globe Award for Best Director,award,Midnight Cowboy,1,0.9235826
+747,Van Morrison,people,lyricist,1,1.1611463
+567,Hugh Dancy,award,Andrew Schneider,0,0.6759987
+646,Mahesh Bhatt,award,Katherine Heigl,0,1.6038487
+684,M. Night Shyamalan,award,Billy Bob Thornton,0,0.64782786
+1009,The Cardinal,film,Colombia,0,1.7840753
+166,Fargo,award,New York Film Critics Circle Award for Best Film,1,0.8856243
+552,United Arab Emirates,location,Blackpool,0,1.1273464
+214,Jeff Richmond,award,Shea Whigham,0,1.25963
+822,Joan Rivers,people,female organism,1,1.7277523
+36,Johann Sebastian Bach,award,Adam Horowitz,0,1.5891701
+1022,Eugene Levy,award,Parker Posey,1,0.7498586
+712,We Need to Talk About Kevin,film,Iceland,1,1.4522943
+145,Tim Allen,award,Tom Hollander,0,0.87400687
+507,Louis C.K.,award,Paul Dano,0,1.1095806
+1032,Kristin Scott Thomas,award,Ryan Phillippe,1,0.41919842
+231,Cormac McCarthy,people,United States of America,1,1.5841355
+933,Alex Borstein,award,Family Guy,1,0.5626155
+342,drum,music,Adrian Belew,1,1.5963002
+275,University of Minnesota,education,sociology,0,1.5532252
+240,Art Carney,award,Arthur J. Nascarella,0,1.6707553
+297,Grammy Award for Best Music Video,award,1999 Grammy Awards,1,0.85022897
+86,Mike Nichols,award,Marty Stuart,0,1.2516979
+487,Sire Records,music,Madonna,1,1.1518531
+792,The Cardinal,film,Sweden,1,1.6967336
+158,The Social Network,award,Steven Spielberg,0,1.0868112
+1050,Big Fish,film,Uruguay,1,1.4544804
+655,Mike Leigh,award,MTV Video Music Award for Best Hip-Hop Video,0,1.4842688
+150,Tommy Lee,people,English,1,1.6053469
+343,Jimmy Fallon,people,marriage,1,1.1920203
+1057,Connecticut,location,Fairfield,0,0.48729244
+570,mandolin,music,Heart,1,1.6679597
+459,Peter Stormare,award,MTV Movie Award for Best On-Screen Duo,1,1.4453526
+478,United States of America,location,Plano,1,1.2173594
+592,Ireland,olympics,1956 Summer Olympics,1,0.58911216
+633,Dileep,award,Aleksa Palladino,0,1.0050831
+1073,Don Cheadle,award,American Masters,0,1.3058723
+911,Hulk Hogan,award,National Society of Film Critics Award for Best Actor,0,1.6496115
+894,Salma Hayek,award,Judd Apatow,0,1.1494638
+663,goalkeeper,sports,FC Thun,1,1.2616055
+281,Scott Rudin,award,Paramount Pictures,1,0.61793303
+963,Courtney Simon,award,Wisner Washam,1,0.68931544
+688,Notre Dame Fighting Irish football,sports,placekicker,1,1.7715845
+372,Paul Rudd,award,Tony Curtis,0,1.4577419
+628,Jet Li,award,Garret Dillahunt,0,0.8958016
+1026,Golden Globe Award for Best Original Score,award,Dimitri Tiomkin,1,1.4121885
+637,Demi Moore,award,Golden Globe Award for Best Screenplay,0,0.7268152
+221,University of Pennsylvania,education,applied mathematics,1,1.6218954
+310,Charlie Kaufman,award,Philip Seymour Hoffman,1,0.5986238
+674,Spirited Away,film,Australia,1,1.7821041
+1035,Bobby Darin,award,Lena Headey,0,1.5168047
+867,Seven Psychopaths,award,Peter Sellers,0,0.94793814
+992,Psycho,film,Germany,1,1.7333267
+501,post-punk,music,The Cult,1,0.91513157
+129,Bobby Darin,people,Columbus,0,1.6270409
+24,Nelsan Ellis,award,Rutina Wesley,1,1.0915198
+1094,Heroes,award,David Milch,0,0.9566456
+407,Tsui Hark,award,Hong Kong Film Award for Best Film,1,0.73109806
+736,Saturn Award for Best Costume,award,Charlie and the Chocolate Factory,1,1.1388608
+128,Jason Priestley,award,CBS Schoolbreak Special,0,0.9945823
+709,Primetime Emmy Award for Outstanding Costumes for a Series,award,Mad Men,1,0.42337137
+647,Jackie Cooper,award,Sheri Anderson,0,0.31506428
+990,Northwestern University,education,administration,1,1.1596386
+739,Peter Tolan,people,marriage,1,1.7797639
+626,Austria,organization,League of Nations,1,1.4309582
+768,Drake,award,MTV Video Music Award for Video of the Year,1,0.67493325
+748,Frankenweenie,film,Lithuania,1,1.6432725
+190,The House of Mirth,film,special effects,1,1.8123925
+177,psychedelic rock,music,Hawkwind,1,1.3675723
+732,Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Leading Role,award,"Good Night, and Good Luck.",1,0.86236393
+1040,Resident Evil: Retribution,award,Cannes Film Festival Award for Best Actor,0,1.4661614
+66,The Way We Were,award,Dilys Award,0,0.75765103
+813,Michael Crichton,award,Primetime Emmy Award for Outstanding Drama Series,1,0.86546427
+414,Lee Marvin,award,Todd Haynes,0,1.314471
+498,contemporary R&B,music,Yanni,0,1.2843548
+17,John Steinbeck,award,Spider-Man 3,0,1.0290805
+89,Academy Award for Best Cinematography,award,Anatomy of a Murder,1,1.1568449
+314,Chicken Little,award,Jeremy Renner,0,0.7438536
+899,Lisa Edelstein,award,Game Change,0,1.306157
+634,John Cage,award,Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series,0,1.1831269
+270,hard rock,music,Ozzy Osbourne,1,1.2262517
+313,Cory Monteith,award,Iqbal Theba,1,0.6122061
+40,Kathryn Joosten,award,Laurie Metcalf,1,0.5367347
+357,Kelly Clarkson,award,Jeffrey Wright,0,1.7567322
+294,The Birds,film,Slovakia,0,1.488502
+434,Get Shorty,award,Rambo: First Blood Part II,0,1.0815392
+530,BAFTA Award for Best Film Music,award,L.A. Confidential,1,0.7337811
+125,Beau Bridges,award,Judy Greer,1,1.0361705
+784,Law & Order,tv,United States of America,1,0.51200294
+892,Daniel Day-Lewis,award,Kate Hudson,1,0.59894675
+461,John Cale,award,Jim Jonsin,0,0.60677505
+534,Grammy Award for Best Rap Solo Performance,award,2000 Grammy Awards,1,1.2131566
+156,Philippines,military,South Vietnam,1,0.7552981
+370,For Your Consideration,film,special effects supervisor,1,1.5981411
+921,Adam Sandler,people,Brooklyn,1,1.783764
+272,contemporary R&B,music,Mandy Moore,0,1.0110506
+119,79th Academy Awards,award,Jennifer Hudson,1,1.162884
+490,Czech Republic,olympics,1996 Summer Olympics,1,0.41550523
+481,American Reunion,film,Latvia,1,1.3776926
+413,New York,location,Franklin County,1,0.8101752
+687,James Woods,award,Kevin Dunn,1,0.7849669
+941,Aaron Sorkin,award,The X-Files,0,1.0895146
+192,Critics' Choice Movie Award for Best Actor,award,William Travilla,0,0.44288915
+376,Fantastic Four,film,DVD,1,1.3019783
+556,British Virgin Islands,olympics,2012 Summer Olympics,1,1.1498101
+645,Genesee County,location,Lehigh County,0,0.8728832
+1004,JPMorgan Chase,organization,New York,1,1.5160162
+1036,The X-Files,award,Hong Kong Film Award for Best Film,0,0.55348825
+38,Karl Urban,award,Dominic Monaghan,1,0.8760529
+408,Prometheus,award,Academy Award for Best Actress,0,1.2862042
+733,Johnny Cash,award,John Davis,0,1.3630707
+909,Kiribati,location,United States dollar,1,0.96161944
+232,My-HiME,film,science fiction,1,1.7195475
+108,Christina Applegate,award,Dexter,0,1.0083838
+1020,Sam Shepard,award,Tricky Stewart,0,0.80460614
+681,Arthur Miller,award,Eric Dane,0,1.0018843
+1087,Joseph Fiennes,award,Geoffrey Rush,1,1.283073
+589,Six Feet Under,tv,Tress MacNeille,0,1.4575827
+243,Naked Lunch,film,drama film,1,1.5734682
+526,Transformers: Dark of the Moon,film,Kuwait,1,1.4782264
+355,harmonica,music,accordion,1,1.4487871
+238,Tom Hollander,award,Alan Bates,1,0.56349677
+301,art rock,music,Steven Wilson,1,1.1705928
+48,Navajo County,location,Carlisle,0,1.3286839
+535,alpine skiing,olympics,South Africa,1,0.12172049
+5,Dean Saunders,award,Matt Hubbard,0,1.324567
+339,Freddie Francis,award,A Prairie Home Companion,0,1.3885001
+63,Shilpa Shetty,people,marriage,1,1.4714037
+981,Stephen Merchant,award,Primetime Emmy Award for Outstanding Directing for a Comedy Series,1,1.0036548
+790,Dena Higley,award,William J. Bell,0,1.0121998
+967,Jerry Orbach,people,cinematographer,0,1.5901263
+21,Robert Plant,people,musician,1,1.7748685
+418,Brad Dourif,award,Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture,1,0.58607113
+542,Rufus Wainwright,award,Brian Baumgartner,0,1.1712183
+57,Taken 2,award,Atticus Ross,0,1.0301452
+0,Bernard Hill,award,John Rhys-Davies,1,0.83713794
+675,James Gandolfini,award,Broadcast Film Critics Association Award for Best Actress,0,0.8110157
+835,Robert Vaughn,award,Tom Hanks,0,1.3019506
+1082,Robin Williams,award,MTV Movie Award for Best On-Screen Duo,1,0.22854435
+104,Aleksa Palladino,award,Grammy Award for Best Female Country Vocal Performance,0,1.5796345
+662,soul music,music,Robin Thicke,1,1.0716792
+121,accordion,music,Benny Andersson,1,1.5093482
+516,Small Soldiers,film,English,1,1.7639403
+1015,Hotel Transylvania,film,Norway,1,1.571236
+576,Swimming Upstream,film,New Zealand,1,1.6464652
+809,Greg Kinnear,people,screenwriter,1,1.5995618
+614,Golden Globe Award for Best Director,award,56th Golden Globe Awards,1,0.5424984
+540,Dean Tavoularis,award,American Pie,0,1.6059914
+330,Bachelor of Science,education,"University of California, Irvine",1,1.5859395
+213,15 Minutes,film,special effects supervisor,1,1.4045182
+554,Paul Feig,award,B. J. Novak,1,1.1005253
+350,Jackie Chan,soccer,Derby County F.C.,0,1.7098342
+690,Titus Welliver,award,Jason Flemyng,0,0.8691635
+762,Raghuvaran,award,Tony Award for Best Actress in a Play,0,1.267896
+485,Matt LeBlanc,people,male organism,1,1.5075734
+993,Mike Judge,people,television director,1,1.6109833
+311,Eragon,film,sound editor,0,1.687083
+257,Benicio del Toro,award,Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture,1,0.77339065
+344,Manny Coto,tv,24,1,1.7895141
+559,Chasing Amy,award,National Film Registry,0,0.90690637
+439,thriller,media_common,Along Came a Spider,1,1.637201
+597,Anu Malik,award,The Hurricane,0,1.4663697
+87,Stalag 17,award,BAFTA Award for Best Actress in a Leading Role,0,1.5542129
+494,June Allyson,award,The Stand,0,1.5861961
+43,Maine,location,Eastern Time Zone,1,0.7131261
+474,Aaron Staton,influence,H. P. Lovecraft,0,1.5990776
+3,Meagan Good,award,Carl Reiner,0,1.6238074
+826,Last Action Hero,film,Singapore,0,1.7572864
+248,Groucho Marx,award,Hugo Weaving,0,1.223649
+28,Tim Armstrong,people,Christianity,0,1.8073918
+725,Jane Lynch,award,Grammy Award for Best Male Rock Vocal Performance,0,1.6564333
+453,Kenneth Branagh,award,BAFTA Award for Best Actor in a Supporting Role,1,1.3351946
+740,Carson City,military,Brazil,0,1.5629911
+332,Amy Robach,people,marriage,1,1.519106
+943,Alan Ladd,award,Jack Black,0,1.3877251
+1072,"Lust, Caution",film,special effects,1,1.4008914
+59,John Davis,organization,freemasonry,0,1.1766391
+371,Golden Globe Award for Best Screenplay,award,Platoon,1,0.56857526
+970,Academy Award for Best Documentary Feature,award,Superman Returns,0,1.1216304
+441,Karl Urban,award,Broadcast Film Critics Association Awards 2011,0,0.73499185
+509,Popeye,film,comedy film,1,1.8018205
+756,Fatboy Slim,music,electronic keyboard,1,1.7967808
+897,Leo Strauss,award,Steve Schirripa,0,1.390877
+112,Imelda Staunton,award,Judi Dench,1,0.45800957
+770,Laurie Metcalf,award,Brent and Shane Kinsman,1,0.90624964
+98,Rachel Griffiths,award,Philip Seymour Hoffman,0,0.8011281
+118,Battle Royale,film,adventure film,1,1.5489343
+704,John Frankenheimer,award,Jack Nicholson,0,1.4151677
+859,Grammy Award for Best Pop Vocal Album,award,54th Annual Grammy Awards,1,1.0719639
+399,James Caan,award,Joe Pesci,0,1.0834267
+845,Brody Jenner,people,lyricist,0,1.5993544
+660,Rwanda,location,United States dollar,1,1.4121044
+1064,Academy Award for Best Makeup and Hairstyling,award,The Hobbit: An Unexpected Journey,1,0.93116593
+818,Christian Slater,award,Psycho,0,0.5761141
+31,Aaron Staton,award,Johnny Cash,0,1.4942942
+984,Peter Weir,award,Carnage,0,1.539013
+800,Andy Warhol,award,Academy Award for Best Picture,0,1.5606614
+971,Green Bay Packers,sports,wide receiver,1,1.5928903
+1003,Kate Flannery,award,David Denman,1,0.7621927
+513,Capitol Records,music,Billie Holiday,1,1.6684957
+924,celesta,music,solo,1,1.2557725
+1084,1988 Summer Olympics,olympics,canoe sprint,1,0.49734268
+796,Bill Finger,award,Eastern Promises,0,1.2033961
+105,Talking Heads,award,MTV Video Music Award for Best Visual Effects,1,0.70656514
+132,Bob Balaban,award,Tilda Swinton,1,0.8419462
+722,Pauly Shore,award,Locus Award for Best Fantasy Novel,0,1.3517088
+699,1952 Summer Olympics,olympics,India,1,1.2329738
+763,Columbia Records,music,will.i.am,1,0.7515909
+708,Buddy Guy,influence,Charles Dickens,0,0.671487
+520,Great Patriotic War,military,Nazi Germany,1,0.93810403
+619,Alan Cumming,award,Flags of Our Fathers,0,0.8200251
+295,Kingdom of England,location,Kansas City,0,0.72833115
+504,double bass,music,guitar,1,1.8146759
+202,David Gilmour,award,Golden Globe Award for Best Original Song,0,0.880143
+983,Fort Worth,location,Fort Worth,1,0.51860267
+978,Anatomy of a Murder,award,Academy Award for Best Picture,0,1.283461
+1010,BAFTA Award for Best Actress in a Supporting Role,award,The Fighter,1,1.3633934
+396,Brave,film,Malaysia,1,1.4992598
+419,Michael Murphy,award,An American in Paris,0,1.8255345
+292,John Adams,award,Harvey Weinstein,0,1.5351455
+640,canoe sprint,olympics,Spain,1,0.7047382
+216,Lady Sings the Blues,award,Golden Bear,0,1.0877105
+679,The Princess and the Frog,award,Larry Gelbart,0,1.6738799
+849,Anderson,location,Naples,0,1.6579485
+354,Dan Castellaneta,award,James Denton,0,1.0995231
+772,boxing,olympics,India,1,1.0367241
+241,Ursula K. Le Guin,award,Paul Rudd,0,0.6231541
+802,Diane Lane,award,Clifton Collins,0,0.72146565
+466,National Society of Film Critics Award for Best Supporting Actress,award,Pulp Fiction,1,0.53142095
+623,Killing Them Softly,film,Canada,1,1.6203349
+256,Alex Kurtzman,award,The View,0,1.3076912
+996,The Lord of the Rings: The Return of the King,award,How Green Was My Valley,0,1.137498
+617,John Rhys-Davies,award,Shrek 2,0,0.965949
+760,Ukraine,olympics,gold medal,1,0.93199724
+620,FC Thun,soccer,goalkeeper,1,0.7890588
+239,canoe sprint,olympics,Myanmar,1,0.9177934
+944,swimming,olympics,Kazakhstan,0,0.81061023
+375,Treat Williams,award,Frank Vincent,0,1.7556638
+316,The Manchurian Candidate,award,Jim Taylor,0,1.3324507
+573,Amistad,film,visual effects supervisor,1,1.7061104
+198,R. Kelly,people,Baltimore,0,1.6979184
+896,Alan Thicke,award,Amy Irving,0,1.2648371
+541,Sicko,film,drama film,1,1.3116453
+502,2010: The Year We Make Contact,award,Jennifer Lawrence,0,0.9163776
+1046,track and field,location,Manchester,0,1.1511694
+165,Jennifer Tilly,people,Los Angeles,1,1.7210479
+312,Adam Horowitz,award,Bryan Burk,1,0.9799538
+786,basketball,olympics,2004 Summer Olympics,1,0.7864892
+356,Al Ain FC,soccer,goalkeeper,1,0.8260943
+966,Viggo Mortensen,award,Demi Moore,1,0.42829242
+553,Trevor Horn,award,Rosario Dawson,0,1.6684784
+957,Jules White,award,Owen Wilson,0,1.0244167
+885,John Woo,award,Robert De Niro,0,1.0838932
+532,You Only Live Twice,award,London Film Critics Circle Award for Actress of the Year,0,0.84058416
+713,Marc Cherry,award,Mike Piersante,0,1.608661
+1090,Georgia national football team,soccer,goalkeeper,1,0.9994816
+56,Daniel Dae Kim,award,Michelle Rodriguez,1,1.0013361
+1047,track cycling,olympics,Iran,1,0.45421168
+384,Mike Myers,award,Golden Raspberry Award for Worst Actor,1,0.36958522
+436,Grammy Award for Best Urban/Alternative Performance,award,Beastie Boys,0,1.0540851
+591,Phil LaMarr,people,San Diego,0,1.5612664
+168,Lauren Bacall,award,The Shubert Organization,0,0.9582728
+964,mouth harp,music,oboe,1,1.5909449
+937,Mike B. Anderson,award,Primetime Emmy Award for Outstanding Animated Program,1,1.279455
+427,Zombieland,film,adventure film,1,1.3815054
+1001,Luther,award,Stuart Craig,0,1.1875293
+799,Michael Fassbender,award,Grammy Award for Best R&B Performance by a Duo or Group with Vocals,0,1.4736764
+160,Russell Crowe,award,Primetime Emmy Award for Outstanding Lead Actress in a Miniseries or a Movie,0,0.84197825
+759,Travis Barker,award,Cory Monteith,0,1.4049643
+345,Over the Top,award,Los Angeles Film Critics Association Award for Best Director,0,0.6613551
+52,Sunset Boulevard,film,Hong Kong,1,1.4418987
+143,John Williams,award,Jaws,1,0.9477065
+636,Jackson County,location,Madison County,1,0.74703103
+562,University of North Carolina at Charlotte,organization,Massachusetts,0,1.3695676
+75,Paul Shaffer,people,United States of America,1,1.6709845
+303,Jeffrey Jones,award,Deadwood,1,0.5099605
+249,Crimes and Misdemeanors,award,National Society of Film Critics Award for Best Supporting Actor,0,1.4246016
+106,Zachary Taylor,award,Tony Award for Best Actor in a Musical,0,1.2196279
+529,bagpipes,music,percussion,1,1.4296776
+842,The Da Vinci Code,award,David Arnold,0,1.752125
+938,Nick Jonas,award,John Mayer,0,1.0186368
+49,Netherlands,olympics,1952 Winter Olympics,1,1.0788171
+229,James Remar,people,male organism,1,1.6759864
+1016,Peter Tork,people,United States of America,1,1.5129356
+236,Robert Silverberg,award,Nebula Award for Best Novel,1,1.2496281
+830,Sierra Leone,location,México,0,1.1030444
+69,wind instrument,music,organ,1,1.1658016
+178,Tony Goldwyn,award,Maya Rudolph,0,0.4727974
+141,Chris Colfer,award,Josh Sussman,1,0.36953548
+176,Keith Moon,award,City of Angels,0,1.6419877
+1091,University of Florida,organization,Association of American Universities,1,1.6857369
+472,Henry Rollins,award,The Best Years of Our Lives,0,1.6306669
+616,BAFTA Award for Best Adapted Screenplay,award,Jerry Maguire,0,0.81098336
+321,steel guitar,music,triangle,1,1.493331
+189,Lloyd Bridges,influence,Lily Tomlin,0,1.1462564
+42,political philosophy,location,Europe,0,1.5582079
+927,blues,music,Outkast,1,1.3106437
+1039,guitar,music,Ben Folds,1,1.1265291
+604,Grammy Award for Best Pop Vocal Album,award,2008 Grammy Awards,1,0.7884721
+962,Wheaton,location,Kennebec County,0,1.0326844
+888,Garin Wolf,award,Patrick Mulcahey,1,0.79711217
+857,Walter Pidgeon,award,Academy Award for Best Actor,1,0.935838
+1061,Great Patriotic War,location,University of Manitoba,0,1.4462316
+242,Erika Christensen,award,Jerry Seinfeld,0,1.3804121
+26,Snoop Dogg,people,Tennessee,0,1.7332393

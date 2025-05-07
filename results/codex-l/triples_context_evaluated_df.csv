@@ -1,0 +1,501 @@
+,Head,Relation,Tail,Missing,distance,Pred
+290,Dieter Kürten,instrument,piano,0,3.3939102,0
+799,Francesco Rosi,occupation,journalist,1,3.2526598,1
+186,Louis Schneider,place of death,New York City,0,2.7499151,0
+126,Mary Anne Driscoll,instrument,piano,1,2.8334436,1
+302,Mario Bava,occupation,winegrower,0,3.2357247,0
+308,Terri Windling,occupation,essayist,1,2.8012288,1
+515,Albert Köster,educated at,Johannes Gutenberg University Mainz,0,3.0003836,0
+122,Tilahun Gessesse,occupation,musician,1,2.5205963,1
+331,August Stramm,occupation,playwright,1,2.7009318,1
+967,Chris Cutler,instrument,drum kit,1,3.3861167,1
+780,Hans F. K. Günther,occupation,lawyer,0,3.0496008,1
+99,Nelson Marra,occupation,writer,1,2.5148916,1
+83,Annette C. Eckert,"languages spoken, written, or signed",German,1,2.2095487,1
+771,A. R. Rahman,instrument,electronic keyboard,0,3.1347213,1
+680,"Alexandre Dumas, fils",place of death,Athens,0,2.7434137,0
+52,Publius Cornelius Sulla,occupation,mathematician,0,3.0094573,0
+376,Stefan Wigger,instrument,keyboard instrument,0,3.2028778,0
+171,Sergey Mikhalkov,member of,USSR Union of Writers,1,3.420339,1
+49,Aleksey Abakumov,educated at,Saint Petersburg State Polytechnical University,0,3.448095,0
+130,Henry David Thoreau,occupation,philosopher,1,2.6523058,1
+84,Henry Winkler,occupation,film director,1,2.7470305,1
+489,Brian Wittman,occupation,musician,1,2.7746468,1
+64,Madge Evans,place of birth,Manhattan,1,2.9955132,1
+926,Pam Dawber,occupation,actor,1,2.8392751,1
+460,Miklós Bethlen,occupation,journalist,1,2.7965603,0
+752,Hans Hotter,educated at,Fairfax High School,0,3.2854385,0
+347,Benjamin Harrison,"languages spoken, written, or signed",Hindi,0,2.0435305,0
+286,Dominique Bussereau,religion,Baptists,0,3.1518834,0
+418,"Charles Hawks, Jr.",occupation,singer-songwriter,0,2.5931284,0
+293,Ina Müller,"languages spoken, written, or signed",German,1,2.9112134,0
+787,Elizabeth Robins Pennell,occupation,journalist,1,2.640366,1
+520,Heinz Günther Guderian,place of death,Bonn,1,3.052054,1
+959,Thomas Anders,instrument,piano,1,3.275362,1
+859,Justus Georg Schottel,"languages spoken, written, or signed",German,1,2.0697315,1
+755,Lydia Pasternak Slater,occupation,chemist,0,2.8232088,0
+511,Arthur Miller,place of birth,New York City,1,2.9978418,1
+904,Arthur Constantin Krebs,occupation,engineer,1,2.5976958,0
+885,Semyon Farada,occupation,science fiction writer,0,3.192599,0
+63,Despina Vandi,occupation,character actor,0,2.6830218,0
+223,Bobby Helms,instrument,bass guitar,0,3.4508772,0
+813,Louis Delâge,member of,National Academy of Engineering,0,3.374017,1
+131,Steve Schirripa,cause of death,Alzheimer's disease,0,3.1978621,0
+375,Chou Kung-shin,occupation,writer,1,3.0483227,1
+858,Cameron Crowe,country of citizenship,United States of America,1,2.9022279,1
+810,Alberto Lleras Camargo,educated at,University of Latvia,0,2.965944,0
+229,Uta Nickel,country of citizenship,German Reich,0,3.4048831,1
+481,Heiner Lauterbach,"languages spoken, written, or signed",German,1,2.9155066,1
+564,Joe Dodge,educated at,Conservatori Superior de Música del Liceu,0,3.4274259,1
+173,Kaoru,occupation,disc jockey,0,3.420261,0
+386,Johannes Minckwitz,occupation,university teacher,1,3.0166893,1
+608,Walter Brandorff,place of death,Munich,0,3.265973,0
+682,Dave Eggers,"languages spoken, written, or signed",English,1,2.9379041,1
+43,Jesse Lacey,occupation,singer-songwriter,1,3.3730361,1
+577,Louis Durey,"languages spoken, written, or signed",French,1,2.8990006,0
+965,Herbert Grönemeyer,genre,experimental music,0,3.3941305,0
+391,Julieta Venegas,record label,Geffen Records,0,3.3074343,1
+243,Paul Maar,occupation,diarist,0,3.3357823,0
+313,Don Aliquo,occupation,saxophonist,1,3.227371,0
+100,Edvard Radzinsky,"languages spoken, written, or signed",French,0,2.8806741,0
+749,Desirée Rancatore,occupation,opera singer,1,2.967163,1
+194,Philipp Brammer,"languages spoken, written, or signed",German,1,2.4507866,1
+490,Pierre-Simon Girard,occupation,engineer,1,3.3060884,0
+303,Émile Lemoine,"languages spoken, written, or signed",French,1,3.2008843,1
+499,Hertha Pauli,"languages spoken, written, or signed",German,1,3.2080958,0
+922,Jackée Harry,educated at,USC School of Dramatic Arts,0,3.3427217,1
+791,Simon Bernard,ethnic group,Germans,0,3.4394064,0
+663,Janri Kashia,educated at,St John's College,0,3.399373,0
+759,Joe Satriani,country of citizenship,United States of America,1,3.1079288,0
+665,Gonçalves Dias,occupation,clarinetist,0,2.999912,0
+819,Martin Gardner,occupation,mathematician,1,2.7508874,0
+913,Grazia Deledda,occupation,writer,1,2.5336156,1
+370,Edmundo Rivero,instrument,keyboard instrument,0,2.9682386,1
+925,Ernst von Köller,place of birth,Dresden,0,3.1713371,0
+910,Jawad Salehi,occupation,aircraft pilot,0,2.7502081,0
+941,Hans Hass,record label,Geffen Records,0,3.069548,1
+283,Hans Lorenz,place of birth,Remiremont,0,3.3798392,0
+461,Erika Jayne,occupation,musician,1,3.0823567,1
+2,Bonnie Hammer,country of citizenship,United States of America,1,3.1628082,1
+307,Franz Treller,occupation,naturalist,0,3.14245,0
+509,Otto Preminger,occupation,actor,1,3.4345212,1
+53,Henri Cernuschi,educated at,Magdalen College,0,2.9787264,0
+947,Yury Galenovich,country of citizenship,Soviet Union,1,2.5671806,1
+350,Frank Witzel,educated at,University of Barcelona,0,3.2870886,0
+484,Sebastian Haffner,educated at,University of Cologne,0,2.6269662,1
+301,Ercole Ricotti,occupation,writer,0,2.8956864,0
+93,"Tony Hall, Baron Hall of Birkenhead",country of citizenship,Austria,0,3.4333422,0
+951,Bruno Pittermann,occupation,politician,1,2.785255,1
+883,Aleksandr Brilliantov,occupation,contributing editor,0,2.8504758,1
+61,Jean-Louis de Lolme,occupation,philosopher,1,2.797485,0
+98,Julie Covington,occupation,singer,1,3.1527627,0
+646,Marion Blakey,occupation,military personnel,0,2.7642853,0
+708,Charles Warren Stoddard,place of death,Athens,0,3.3196516,1
+258,Fritz Rotter,country of citizenship,Germany,0,3.2087297,0
+504,Dan Potthast,occupation,art collector,0,2.86453,0
+165,Heinrich Barth,educated at,Humboldt University of Berlin,1,3.1346948,1
+542,W. J. Maryson,place of death,Los Angeles,0,2.9262922,0
+788,Giovanni Antonelli,occupation,astronomer,1,2.4948692,0
+919,Alice Lake,cause of death,myocardial infarction,1,2.36044,1
+372,Mary Anderson,occupation,film actor,1,3.3454325,1
+917,Karl Friedrich Geldner,occupation,university teacher,1,3.423816,1
+723,Aleko Lilius,occupation,photographer,1,2.6891408,1
+134,Chris Brown,instrument,voice,1,2.7412074,1
+836,Norman Whitfield,educated at,Berklee College of Music,0,3.423998,0
+506,Bill Clinton,member of,American Academy of Arts and Sciences,1,3.3744574,1
+41,Jón Gnarr,occupation,politician,1,2.5028257,0
+82,Johann Philipp Abelin,occupation,numismatist,0,2.8752894,0
+185,Robert Gigi,occupation,military personnel,0,3.3327765,0
+848,United Kingdom,diplomatic relation,Serbia,1,0.46243876,0
+378,Jenny McCarthy,occupation,musician,0,2.7904236,1
+321,János Arany,educated at,University of Theatre and Film Arts,0,2.9528725,0
+735,Dick Chrysler,country of citizenship,United States of America,1,3.1838863,0
+812,Chris Cagle,country of citizenship,United States of America,1,3.4027262,1
+543,John Pasta,occupation,university teacher,0,2.6058671,0
+645,Igor Oparin,place of death,Moscow,1,2.7403972,0
+699,Antonio Mediz Bolio,field of work,radiophysics,0,3.1850405,0
+275,Hubert Urbański,record label,Warner Bros. Records,0,2.9859498,1
+613,Fukuzawa Yukichi,"languages spoken, written, or signed",Japanese,1,3.2040467,1
+706,Martina Nöth,country of citizenship,German Confederation,0,3.1891298,0
+563,Laura Grimaldi,field of work,philosophy,0,3.2849844,0
+239,Friedrich Märker,"languages spoken, written, or signed",Czech,0,3.2056034,1
+431,Alain de Botton,occupation,writer,1,3.2691877,1
+240,Andrey Medushevsky,country of citizenship,Russia,1,2.6650147,1
+955,Debbie Harry,instrument,voice,1,3.195612,1
+259,Lucy Liu,occupation,voice actor,1,2.4318705,1
+782,Ricky Paull Goldin,educated at,Trinity College,0,3.1595888,0
+371,Murphy J. Foster,occupation,resistance fighter,0,2.6106896,0
+617,Muhammed Wattad,"languages spoken, written, or signed",Swedish,0,2.2634678,0
+193,Karl Friedrich Kurz,occupation,author,1,3.1597846,1
+544,Vitaly Ginzburg,country of citizenship,Soviet Union,1,3.4030433,1
+736,Ryan Adams,instrument,voice,0,3.168619,1
+428,Christian Rakovsky,country of citizenship,Kingdom of Naples,0,3.431109,0
+954,Yui Yokoyama,record label,Geffen Records,0,3.3987553,1
+727,Frank Baier,instrument,voice,1,3.2788644,0
+606,Joe Rosenthal,occupation,journalist,1,2.5563183,1
+473,Marit Paulsen,member of political party,Kuomintang,0,3.2363148,0
+833,Helmut Scholz,"languages spoken, written, or signed",French,0,2.0506232,1
+404,Chinua Achebe,occupation,essayist,1,2.5659666,1
+647,John Pepper,occupation,politician,1,3.3202806,0
+435,Christopher Hewett,occupation,stage actor,1,2.7641642,1
+704,Gary Becker,occupation,economist,0,2.711336,1
+470,Germany,diplomatic relation,Serbia,1,0.51848644,0
+565,Olive Thomas,occupation,film actor,1,3.1919286,1
+559,Sean Patrick Maloney,occupation,architect,0,2.5900247,0
+724,Danielle Tabor,place of birth,Toronto,0,3.4401524,1
+71,Leo V,place of death,Rome,1,3.2060843,1
+886,Cirilo Villaverde,place of death,London,0,3.166887,0
+583,Henry van Lyck,"languages spoken, written, or signed",German,1,2.7293541,1
+115,Hildegard Knef,place of death,Berlin,1,3.2872756,1
+237,Martin Dannecker,field of work,philosophy,0,3.327065,0
+605,Leó Szilárd,occupation,university teacher,1,2.4990783,1
+851,François Cavanna,instrument,voice,0,3.3098688,0
+741,Luciano Berio,employer,Harvard University,1,3.2285373,0
+850,Anthony Kiedis,instrument,voice,1,3.2584968,1
+236,Karl Waldbrunner,country of citizenship,Austria,1,3.387247,1
+416,Benoît Marie Moline de Saint-Yon,"languages spoken, written, or signed",Polish,0,3.1821206,1
+620,Edmondo Rossoni,educated at,University of Chile,0,3.1710012,0
+189,Moldova,diplomatic relation,Spain,1,0.80839205,0
+783,Philippe Bonzon,country of citizenship,Switzerland,1,2.617236,1
+360,Marinus I,religion,Catholic Church,1,2.6038685,1
+27,Günter Sieber,field of work,physics,0,3.2569919,0
+593,Tim Berners-Lee,record label,Fascination Records,0,3.374839,0
+743,Stan Winston,"languages spoken, written, or signed",Italian,0,3.2210426,0
+603,A. G. Crowe,occupation,computer scientist,0,3.4208803,0
+367,Flavor Flav,occupation,actor,0,3.2067442,0
+518,Len Deighton,occupation,writer,1,2.899453,0
+363,Paul Mason,country of citizenship,Switzerland,0,2.6116412,1
+568,Ünal Aysal,occupation,entrepreneur,1,2.7767556,1
+216,Gabriel Lamé,"languages spoken, written, or signed",English,0,2.052943,1
+159,Akiyoshi Nagasaki,sport,cross-country skiing,1,2.7963088,1
+15,Emil Carlebach,member of political party,Communist Party of Germany,1,2.6369617,1
+359,Imre Csécsy,occupation,translator,1,2.7261693,0
+929,Vanessa Minnillo,country of citizenship,United States of America,1,2.9850028,1
+305,Stefan Zweig,educated at,Karlsruhe Institute of Technology,0,2.5999985,0
+395,Cat Ballou,country of origin,United States of America,1,1.4446901,1
+525,Swami Vivekananda,cause of death,stroke,1,2.7701318,0
+425,Larry Gatlin,record label,Capitol Records,1,2.5237195,1
+447,Erich Priebke,"languages spoken, written, or signed",German,1,3.4199822,1
+125,Ivana,occupation,writer,0,3.4438148,0
+956,Paul Auster,occupation,poet,1,3.1038861,0
+892,Andrus Kivirähk,occupation,screenwriter,1,3.1557662,0
+384,Franz Egenieff,occupation,opera singer,1,3.3361242,1
+117,Julieta Venegas,instrument,voice,1,3.1085207,0
+765,Ivan Urgant,occupation,singer-songwriter,0,2.4698086,0
+482,Jim Morrison,"languages spoken, written, or signed",English,1,2.6912057,1
+479,Shawn Elliott,occupation,stage actor,1,2.9687665,1
+358,Bulgaria,diplomatic relation,Canada,1,0.36978078,0
+558,Kasia Kowalska,educated at,University of New Hampshire,0,3.148087,1
+188,Paul Lejeune-Jung,occupation,resistance fighter,1,2.8591979,0
+825,Johann Michael Franz Birnbaum,occupation,university teacher,1,2.9718556,0
+158,Christian Prudhomme,occupation,statistician,0,2.4729962,0
+407,"Louis Aloysius, Prince of Hohenlohe-Waldenburg-Bartenstein",instrument,voice,0,3.2847853,0
+971,Sarah Michelle Gellar,educated at,Guildhall School of Music and Drama,0,3.2397954,0
+74,Kristen Johnston,occupation,writer,0,3.4387958,0
+916,Napoleon III,country of citizenship,France,1,2.5074813,1
+476,Ludwig Philippson,"languages spoken, written, or signed",German,1,2.1039546,1
+272,Johannes Grenzfurthner,cause of death,tuberculosis,0,3.4336252,0
+356,Vincent D'Onofrio,occupation,actor,1,2.4526875,1
+715,Léon Lemartin,occupation,engineer,1,3.123748,1
+169,Dilshad Vadsaria,country of citizenship,United States of America,1,2.6327384,1
+234,Nia Long,occupation,model,0,2.5642784,0
+510,Charlie Aldrich,country of citizenship,United States of America,1,3.0214636,1
+556,Sid Caesar,country of citizenship,United States of America,1,3.155742,1
+590,Arne Treholt,country of citizenship,Norway,1,2.642416,1
+697,Dorothy Day,educated at,University of Chile,0,3.1393583,1
+320,Daddy G,record label,Anthem Records,0,3.0954008,1
+309,Bill Ritter,member of political party,Democratic Party,1,3.3597298,1
+468,Willi Agatz,country of citizenship,Switzerland,0,2.7779193,1
+566,Jacques Cousteau,"languages spoken, written, or signed",French,1,2.414878,1
+160,Milan Kundera,occupation,screenwriter,1,3.148328,1
+413,Daniel Kottke,occupation,businessperson,1,3.2758741,1
+294,Nino Rota,instrument,piano,1,3.2904384,0
+920,Jean Prévost,educated at,Boston University,0,3.1605885,1
+353,Varlam Cherkezishvili,educated at,University of Cologne,0,3.016088,0
+50,Karl Ludwig von Knebel,"languages spoken, written, or signed",Hungarian,0,3.2797825,0
+38,Ella-Maria Gollmer,country of citizenship,Germany,1,3.1952856,1
+105,Maaya Uchida,country of citizenship,Japan,0,3.3260286,1
+753,Jakob the Liar,country of origin,United States of America,1,1.5803862,0
+927,Francesco Sansovino,country of citizenship,Republic of Venice,1,3.433388,0
+881,Debra Paget,occupation,stage actor,1,2.5214188,1
+8,Robert Reid,country of citizenship,United States of America,1,3.0995853,1
+579,Ursula Haller,sibling,Saad bin Abdulaziz,0,3.4113455,0
+341,Richard C. Parsons,occupation,journalist,1,2.602826,0
+909,Mylène Farmer,"languages spoken, written, or signed",French,1,3.4278014,1
+821,Hibari Misora,occupation,guitarist,0,2.5740006,0
+276,Jörn Schlönvoigt,country of citizenship,Germany,1,2.8710124,1
+451,fountain farmhouse Buchweg 5,located in the administrative terroritorial entity,canton of Bern,1,2.5149894,1
+184,Cissy Houstom,country of citizenship,United States of America,1,2.6217859,1
+691,William Perry,educated at,Pennsylvania State University,1,2.5907054,1
+106,Kurt Grelling,"languages spoken, written, or signed",Yiddish,0,3.272644,0
+467,William Godwin,place of death,London,1,2.8428771,1
+119,Matt Damon,occupation,actor,1,2.9693894,1
+882,Leonid Alekseyev,occupation,scientist,1,3.3189,1
+211,Cissy Houstom,record label,Zoë Records,0,3.433326,0
+541,Leonard Nimoy,occupation,film actor,1,3.2997751,1
+497,Ray Bradbury,occupation,historian,0,3.1598651,0
+19,Marguerite Yourcenar,"languages spoken, written, or signed",French,1,2.5385191,1
+77,Salvador Dalí,"languages spoken, written, or signed",English,1,2.063109,1
+254,József Fekete,occupation,germanist,0,3.3462803,0
+247,Nikolaus Harnoncourt,instrument,drum kit,0,3.3391979,0
+298,Vojtěch Náprstek,country of citizenship,Second Polish Republic,0,3.1768072,0
+705,John Joseph Delaney,country of citizenship,Polish–Lithuanian Commonwealth,0,2.8578632,0
+59,Franz Overbeck,place of birth,Pushkin,0,3.376352,0
+879,Claude Hêche,occupation,politician,1,3.1747944,0
+834,Georgy Smolin,country of citizenship,Russia,1,2.9931686,1
+205,Nina Ruge,place of birth,Munich,1,3.04626,1
+570,Paul Harding,occupation,singer-songwriter,0,3.42428,0
+648,Marton Csokas,occupation,film director,0,2.883703,1
+208,Shigeru Amachi,"languages spoken, written, or signed",Japanese,1,2.6582673,1
+263,Sister Rosetta Tharpe,"languages spoken, written, or signed",English,1,2.089361,0
+151,Jaume Vallcorba Plana,"languages spoken, written, or signed",Yiddish,0,3.107846,0
+465,Margarete Mitscherlich-Nielsen,"languages spoken, written, or signed",Norwegian,0,2.9255502,0
+459,Baku,country,Soviet Union,0,3.0222437,0
+719,Anne Marie Louise d'Orléans,occupation,autobiographer,0,2.9116247,0
+280,Cary Grant,instrument,viola,0,3.423288,0
+966,Alexander Xaver Gwerder,"languages spoken, written, or signed",English,0,2.7841103,1
+187,Heinrich Dorn,country of citizenship,Spain,0,3.046879,1
+330,George S. Kaufman,spouse,Jennifer Jones,0,3.4499853,0
+107,Rıfat Ilgaz,"languages spoken, written, or signed",Lithuanian,0,3.3165784,0
+322,Emily Greene Balch,occupation,writer,1,2.7097545,1
+282,Eugen Gerstenmaier,occupation,resistance fighter,1,3.41678,0
+14,Patryk Dominik Sztyber,occupation,musician,1,2.9147933,1
+912,Alan Jones,member of political party,Hungarian Socialist Workers' Party,0,3.2095153,0
+374,Peru,diplomatic relation,Taiwan,1,0.6298787,1
+255,Teo Otto,"languages spoken, written, or signed",German,1,2.3914504,1
+615,Nova Meierhenrich,occupation,television presenter,1,2.5302684,1
+103,Nikolay Makarov,place of death,Harlingen,0,3.006347,0
+89,Miquel Quesada Velasco,"languages spoken, written, or signed",Spanish,1,3.042581,1
+614,Ed Sheeran,occupation,television actor,1,2.9162354,0
+739,Giovanni Battista Riccioli,"languages spoken, written, or signed",Arabic,0,3.2656238,0
+157,Chuck Willis,occupation,musician,1,3.3525732,1
+589,Comoros,diplomatic relation,Argentina,0,0.76892245,0
+196,Sierra McCormick,member of,"Academy of Arts, Berlin",0,3.3277125,1
+334,Rena Owen,religion,Judaism,0,2.8357706,0
+537,Charles-Benjamin de Lubières,occupation,mathematician,1,3.3505979,0
+31,Niederried bei Interlaken,shares border with,Bönigen,1,1.1817602,1
+146,Samantha Womack,occupation,film director,1,2.7899585,1
+7,Taxi Driver,narrative location,New York City,1,2.793909,0
+773,Álvaro Uribe,occupation,lawyer,1,2.8741593,1
+231,Helga Schubert,country of citizenship,Germany,1,3.4035082,1
+725,Masashi Sada,sibling,Rosanna Arquette,0,3.128353,0
+51,Karl Kruszelnicki,occupation,geographer,0,3.010337,0
+427,José Rizal,occupation,writer,1,3.0300846,0
+911,Krummenau,country,Switzerland,1,2.0901377,1
+790,Charles Babbage,occupation,computer scientist,1,3.3486292,1
+379,Thomas Stewart,sport,American football,0,3.4053934,1
+262,Beni,occupation,actor,1,2.6332743,0
+713,Greece,member of,International Finance Corporation,1,3.4269936,0
+709,Giuseppe Levi,occupation,physician,1,2.9956548,1
+642,Charlotte Wolff,occupation,non-fiction writer,1,3.210298,1
+638,Billy Idol,educated at,Florida State University,0,2.3504212,0
+535,Chris Grayling,occupation,politician,1,3.4477022,1
+230,Brendan Gill,occupation,stage actor,0,2.7573245,0
+726,Moshé Feldenkrais,occupation,art collector,0,3.4243681,0
+129,Peer Steinbrück,occupation,politician,1,2.8455038,1
+323,Viola Roggenkamp,"languages spoken, written, or signed",Hungarian,0,2.7303398,0
+420,Gary Kildall,cause of death,stroke,0,3.344558,0
+11,Zachary Quinto,occupation,singer-songwriter,0,2.6283438,0
+654,Indiana Evans,place of birth,Rome,0,3.120318,0
+872,Imani Coppola,place of birth,New York City,1,3.063971,1
+114,Ian McKellen,"languages spoken, written, or signed",English,1,2.5816896,1
+714,Petra Bierwirth,educated at,Leipzig University,1,2.450628,1
+382,Erich Kästner,occupation,linguist,0,3.0238981,1
+718,Victor H. Erlich,occupation,scientist,1,2.6069062,1
+527,Vladimir Karapetoff,educated at,Lithuanian Academy of Music and Theatre,0,2.9980943,0
+953,Albert Vigoleis Thelen,member of political party,Socialist Unity Party of Germany,0,2.672775,1
+906,Asaf Avidan,instrument,voice,1,3.3016357,1
+838,Chantal Akerman,occupation,screenwriter,1,3.4220753,0
+29,Andreas Schnabel,occupation,engineer,0,3.3852317,0
+400,Baron Karl von Macchio,occupation,diplomat,1,3.0773695,0
+628,Khloé Kardashian,occupation,scientist,0,3.1079328,0
+823,Henry Lincoln,occupation,screenwriter,1,2.6212604,1
+717,William McLean Hamilton,educated at,Institut des hautes études cinématographiques,0,3.1245275,0
+75,Matilde Serao,occupation,critic,0,2.87421,0
+742,Claude Piel,place of death,Mülheim an der Ruhr,0,3.349688,0
+864,Anthony Head,occupation,singer,1,3.3423684,1
+626,Sam Houser,"languages spoken, written, or signed",English,1,2.3401,1
+931,Roberto Arlt,occupation,statistician,0,3.032281,0
+144,Jens Sembdner,instrument,guitar,0,3.393855,1
+437,Romania,diplomatic relation,Greece,1,0.46863678,0
+104,Peter Dörfler,religion,Catholic Church,1,2.4135551,1
+409,Jessica Boehrs,occupation,television presenter,1,2.7862892,0
+475,Tim Sebastian,country of citizenship,United Kingdom,1,2.5614543,1
+140,Paul Graham,occupation,theologian,0,2.651558,0
+90,Margaret Bourke-White,religion,Christianity,0,3.090584,0
+91,Pamela Stephenson,country of citizenship,Australia,1,2.8336127,1
+337,People's Republic of China,diplomatic relation,Kenya,1,0.8450774,1
+505,John Barrymore,occupation,film producer,0,2.7012646,0
+304,Ahmet Kaya,occupation,composer,1,3.1499455,0
+191,Pagu,place of death,Heidelberg,0,3.0467446,0
+257,Peter Oskam,place of death,Houston,0,3.1562064,0
+22,Ireland,diplomatic relation,People's Republic of China,1,0.5496715,0
+95,Dietrich Unkrodt,occupation,university teacher,1,3.2276998,0
+893,Jay Leno,cause of death,heart failure,0,2.5659199,1
+502,Gaspard-Gustave de Coriolis,occupation,entrepreneur,0,3.0984929,0
+35,Felix Philipp,residence,Buffalo,0,3.156145,0
+150,Protective Charm Himari,genre,action anime and manga,1,3.3378832,1
+57,Dweezil Zappa,occupation,composer,1,3.0738292,1
+686,Alexander Thom,occupation,anthropologist,1,3.0770423,1
+357,Friedrich Ludwig Gaupp,occupation,jurist,0,2.994982,0
+469,Jean-Louis Barrault,occupation,conductor,0,3.1795506,0
+554,Marcel Daunay,record label,Third Man Records,0,2.7322109,0
+256,Beate Weber,occupation,politician,1,3.1088154,0
+430,Michael Richards,occupation,writer,0,2.518952,0
+453,Péter Esterházy,occupation,bandleader,0,2.5229838,0
+935,Duncan Sheik,"languages spoken, written, or signed",English,1,3.0457854,0
+402,Spot,country of citizenship,United States of America,1,2.5210195,1
+809,Jena,country,Belarusian People's Republic,0,2.338365,0
+325,Melissa Auf der Maur,occupation,record producer,1,2.7776775,1
+876,E. W. Marland,occupation,businessperson,1,2.874935,0
+507,Colm Tóibín,"languages spoken, written, or signed",English,1,2.5034893,1
+611,Alfred Charles Ernest Franquet de Franqueville,sport,figure skating,0,2.9789495,0
+694,Miroslav Škoro,member of political party,Communist Party of the Netherlands,0,3.3616474,0
+85,Kaoru,instrument,guitar,1,2.880491,1
+524,Walter Renschler,occupation,jurist,0,2.8643215,1
+890,Keegan Connor Tracy,occupation,actor,1,3.2465649,1
+923,Aysel Gürel,educated at,University of Nebraska–Lincoln,0,3.2546546,0
+199,Johann Benjamin Erhard,occupation,non-fiction writer,0,2.9321358,0
+300,Pavitra,occupation,urban planner,0,2.682462,1
+503,Constance Moore,occupation,film actor,1,2.6984017,1
+797,Suad Amiry,occupation,politician,0,3.2812479,1
+120,Stephanie Romanov,occupation,model,1,2.5481846,1
+637,"Henry Chetwynd-Talbot, 18th Earl of Shrewsbury",member of political party,Conservative Party,1,2.632335,0
+702,Andreas Ernst,educated at,New York University,0,3.3076112,0
+396,Paul Graham,occupation,psychoanalyst,0,3.287615,0
+142,Charles de Tornaco,occupation,businessperson,0,3.4144163,0
+748,Heberto Castillo,"languages spoken, written, or signed",French,0,3.4148495,1
+403,Philippe Labro,occupation,teacher,0,3.2791624,0
+111,Shah Muhammad Sulaiman,religion,Islam,1,3.425281,1
+656,Luís de Camões,"languages spoken, written, or signed",French,0,3.2179804,0
+66,Władysław Szpilman,occupation,actor,0,2.7313762,0
+55,Collin Walcott,educated at,Conservatoire national supérieur de musique et de danse,0,3.198561,0
+147,Carl Junker,country of citizenship,Germany,0,3.4098732,1
+816,Jamaica,diplomatic relation,Romania,0,0.22059706,0
+934,Mariah Carey,"languages spoken, written, or signed",English,1,2.573945,0
+766,Leonie Benesch,"languages spoken, written, or signed",German,1,2.7726536,0
+12,Willy Cullmann,occupation,cleric,0,2.9366567,0
+202,Martin Brauß,occupation,television presenter,0,3.1326299,0
+44,Dieter Hildebrandt,member of political party,Socialist Unity Party of Germany,0,3.2514884,1
+443,Stasys Brundza,"languages spoken, written, or signed",Japanese,0,3.4399045,0
+517,Octavian Paler,occupation,lawyer,0,2.8602288,0
+123,Regina Spektor,instrument,piano,1,3.3690515,0
+220,Yury Nekrasov,country of citizenship,Soviet Union,1,3.2554913,0
+607,Donald S. Day,occupation,trade unionist,0,2.8499238,0
+60,MC Eiht,occupation,actor,1,2.989007,1
+252,Charlotte Brontë,occupation,novelist,1,3.0974007,1
+132,Mihály Víg,country of citizenship,German Reich,0,3.3466113,0
+246,Oskar Hoffmann,instrument,synthesizer,0,2.9490368,0
+928,Ratan Tata,occupation,engineer,1,2.6292634,0
+154,Gabriele Lösekrug-Möller,place of death,Kleinmachnow,0,3.2366447,0
+600,Paul-Henri-Benjamin d'Estournelles de Constant,educated at,École Polytechnique,0,3.3702366,0
+32,Stanisław Jerzy Lec,place of burial,Powązki Military Cemetery,1,3.0819302,1
+483,Guadalupe Santa Cruz,field of work,international relations,0,3.4202673,0
+918,Sully Prudhomme,residence,Barnstable,0,3.2735953,0
+875,Jean Ferrat,occupation,singer-songwriter,1,2.5611618,1
+623,Tito Puente,occupation,bandleader,1,3.115988,1
+942,Napoleon III,sibling,Mamdouh bin Abdulaziz,0,2.5314488,0
+448,Achille Baraguey d'Hilliers,"languages spoken, written, or signed",French,1,2.3627489,1
+800,Klaus Wowereit,country of citizenship,Cuba,0,3.2109604,0
+586,Roger Corman,occupation,television actor,1,3.0634189,1
+385,24 Hour Party People,country of origin,United States of America,0,1.6090125,1
+751,Moritz Rühlmann,occupation,news presenter,0,3.3472078,0
+288,Monika Wulf-Mathies,"languages spoken, written, or signed",German,1,2.2697742,1
+898,Pål Mathiesen,record label,Concord Records,0,2.8346858,1
+853,Gabrielle Miller,occupation,explorer,0,3.3688142,0
+310,Egypt,diplomatic relation,Mexico,1,0.87207234,0
+734,Alexander Woollcott,occupation,mechanical engineer,0,3.2640018,0
+368,Jérôme Lalande,religion,atheism,1,2.40619,0
+96,Philip J. Klass,"languages spoken, written, or signed",Yiddish,0,3.4188218,0
+516,Alan Kotok,country of citizenship,United States of America,1,2.486335,1
+198,Camille Saint-Saëns,occupation,composer,1,2.659153,1
+408,Derek Grant,record label,Def Jam Recordings,0,3.2975843,1
+508,Heinrich Hellwege,member of political party,FDP.The Liberals,0,2.713637,0
+671,Gerhard Polt,sibling,Pierre Casiraghi,0,2.3553083,0
+233,Earl Grant,instrument,piano,1,3.1362247,1
+121,Tanya Lopert,place of birth,Budapest,0,3.1516888,0
+529,Hubert Urbański,place of birth,Philadelphia,0,3.3637125,0
+70,Karl Heinzen,spouse,Giangiacomo Feltrinelli,0,2.9225044,0
+494,Bernhard Hennen,occupation,historian,1,3.3898284,0
+581,Claire McNab,"languages spoken, written, or signed",English,0,2.8995724,0
+39,Karl Liebknecht,"languages spoken, written, or signed",German,1,2.9293382,1
+961,Greg Kinnear,occupation,actor,1,2.7471323,1
+952,Jack Anderson,religion,The Church of Jesus Christ of Latter-day Saints,1,2.4152312,1
+769,Juhan Liiv,place of death,Budapest,0,3.396331,0
+232,Paul Emil von Lettow-Vorbeck,educated at,University of Illinois at Urbana–Champaign,0,2.773428,0
+802,Andrew Solomon,place of death,Berlin,0,3.2742639,1
+306,James Ritty,occupation,businessperson,1,2.6263914,1
+478,Markus Heitz,country of citizenship,Germany,1,2.5721724,1
+62,Benjamin Sadler,occupation,television actor,1,3.1003337,0
+352,Jane Smiley,"languages spoken, written, or signed",English,1,2.3075013,1
+815,Sonny Terry,influenced by,R.E.M.,0,3.1922102,0
+242,Håkon Løken,occupation,painter,0,3.275329,1
+92,Marisol Nichols,spouse,Lisa Bonet,0,3.1484487,0
+340,Jean Alexandre Buchon,place of death,Paris,1,2.555624,0
+636,Füllinsdorf,shares border with,Giebenach,1,1.1841066,0
+861,Toby Jones,occupation,actor,1,3.089444,1
+316,Hairspray,genre,drama film,1,3.3094025,0
+843,Richard Otto Frankfurter,country of citizenship,Germany,1,2.5476656,1
+421,Wilhelm Scherer,place of death,Berlin,1,3.1738353,0
+412,Jasper Morrison,occupation,economist,0,2.9400928,0
+513,Franz Dinda,occupation,music pedagogue,0,2.9759357,0
+698,Eddie Bond,record label,Mercury Records,1,3.1592128,1
+488,Thom Bell,occupation,musician,1,2.436226,1
+550,Antoine de Paris,educated at,State University of New York,0,3.1678984,0
+116,Heinrich Rickert,occupation,author,1,3.1675954,1
+768,The Magliari,genre,drama film,1,3.3177428,1
+856,George Carlin,occupation,film director,0,3.188466,0
+328,People's Republic of China,diplomatic relation,Turkey,0,0.61865824,1
+696,Roger L'Estrange,occupation,author,0,2.6515715,1
+873,Jean-Baptiste Réveillon,occupation,real estate broker,0,3.0661209,0
+867,Robert L. Bacon,educated at,University of Delhi,0,3.2177193,1
+110,"Julian Asquith, 2nd Earl of Oxford and Asquith",occupation,politician,1,2.6170707,1
+30,Romain Gary,occupation,translator,1,3.2161627,1
+40,Ralph Doubell,occupation,middle-distance runner,1,2.7526193,0
+903,Heinz Kessler,member of political party,Socialist Unity Party of Germany,1,3.3263633,1
+319,Dougie Poynter,occupation,model,1,2.9746048,0
+496,South Africa,diplomatic relation,Jamaica,0,0.48409554,0
+844,Inspectah Deck,country of citizenship,United States of America,1,2.5136864,1
+80,Charles Campora,country of citizenship,Belgium,0,2.6493652,0
+37,Alex Azar,occupation,lawyer,0,3.3997145,1
+456,Leoš Janáček,instrument,organ,1,2.944925,1
+486,David M. Brienza,country of citizenship,United States of America,1,2.5497892,1
+940,Mitch Ryder,occupation,musician,1,3.1027424,1
+156,Cledus T. Judd,occupation,anatomist,0,2.8539393,0
+587,Georg Ay,place of birth,Büren,0,3.1544921,0
+627,Ginger and Fred,director,Francesco Rosi,0,3.2442045,0
+569,Inge Feltrinelli,country of citizenship,Romania,0,2.721432,1
+545,Waldemar Schreckenberger,occupation,politician,1,2.724606,0
+394,Heinrich Wilhelm Olbers,field of work,botany,0,3.326543,1
+78,Hans Hotter,record label,Dot Records,0,2.4089248,1
+945,James Brindley,educated at,"""University of California, Davis""",0,3.2360768,0
+641,Keita Tachibana,occupation,stage actor,0,3.0810108,1
+877,Charles-Gaspard de la Rive,country of citizenship,German Reich,0,2.845148,0
+732,Missy Elliott,occupation,singer,1,3.3422666,1
+781,Harold Pinter,occupation,songwriter,0,2.6026063,0
+538,Giovanni De Micheli,"languages spoken, written, or signed",Romanian,0,3.2984462,0
+235,Charles-Benjamin de Lubières,occupation,film score composer,0,3.436466,0
+415,Emil Anneke,country of citizenship,United States of America,1,2.6474116,1
+670,Viktor Hamburger,country of citizenship,United States of America,1,2.944289,0
+963,Herménégilde Chiasson,occupation,journalist,1,2.5198872,1
+388,Julian Marley,ethnic group,African Americans,0,2.9343014,0
+224,Klaus Lohmann,"languages spoken, written, or signed",German,1,2.621061,1
+299,Ninet Tayeb,occupation,playwright,0,2.972075,0
+285,Mark Wahlberg,instrument,piano,0,3.2956314,0
+458,Lenka Reinerová,residence,Albuquerque,0,3.2845645,0
+438,Adolf Ernst Leopold von Gizycki,place of death,Newport Beach,0,3.2231498,0
+746,Ned Lamont,"languages spoken, written, or signed",French,0,2.7433248,0
+10,Héctor Maseda Gutiérrez,occupation,politician,1,2.9497373,0
+54,Raffaele de Ferrari,occupation,university teacher,0,2.7074583,0
+854,"Margaret Sharp, Baroness Sharp of Guildford",occupation,stand-up comedian,0,2.589863,0
+192,Anne Sweeney,occupation,businessperson,1,2.5724807,0
+964,Leslie Fiedler,country of citizenship,Ireland,0,3.4049902,1
+108,The End of Violence,country of origin,Germany,1,1.6933857,0
+757,Prince Maximilian of Wied-Neuwied,occupation,ornithologist,1,3.1384597,1
+209,Ornella Vanoni,educated at,Columbia University,0,3.4159377,0
+584,Lionel Richie,occupation,singer-songwriter,1,2.9485474,1
+908,Johnny Cash,cause of death,lung cancer,0,3.4374175,1
+76,Jean-Pierre Lecocq,cause of death,pneumonia,0,3.1868615,1
+635,Frank Hutchison,educated at,Conservatori Superior de Música del Liceu,0,3.2986596,0
+624,Amei Wiegel,place of burial,Frankfurt Main Cemetery,0,3.3019462,0
+866,Lori Berenson,occupation,film actor,0,3.3424592,0

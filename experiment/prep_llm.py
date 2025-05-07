@@ -211,6 +211,47 @@ def RAG_sentence(df, retriever):
             print(f'{index} / {len(sentence_list)}')
     return score_list
 
+def context_sentence(evaluation_df:pd.DataFrame, original_df:pd.DataFrame):
+    template = """
+    1. Use the following pieces of context to determine if the sentence represent correct fact or not.\n
+    2. Is the sentence stating correct facts: answer "1" if it is correct and "0" otherwise.\n
+    3. If you don't know the answer, just say that "-1"\n
+    4. Start the answer with 'Score:'\n
+
+    Context: {context}
+
+    Sentence: {sentence}
+
+    Helpful Answer:"""
+    context_list = []
+    for item in evaluation_df.iterrows():
+        context_triple = []
+        triple = item[1]
+        head = triple['Head']
+        relation = triple['Relation']
+        tail = triple['Tail']
+        head_cont = original_df[original_df['Head'] == head].sample(1)
+        for id, elem in head_cont.iterrows():
+            elem_sent = triple2sentence(elem)
+            context_list.append(elem_sent)
+        rel_cont = original_df[original_df['Relation'] == relation].sample(1)
+        for id, elem in rel_cont.iterrows():
+            elem_sent = triple2sentence(elem)
+            context_list.append(elem_sent)
+        tail_cont = original_df[original_df['Tail'] == tail].sample(1)
+        for id, elem in tail_cont.iterrows():
+            elem_sent = triple2sentence(elem)
+            context_list.append(elem_sent)
+
+    sentence_list = get_sentence_list(evaluation_df)
+    score_list = []
+    for index, sentence in enumerate(sentence_list):
+        context = context_list[index]
+        score = prompt_answer(template, sentence=sentence, context=context)
+        score_list.append(score)
+        if index%100 == 0:
+            print(f'{index} / {len(sentence_list)}')
+    return score_list
 
 
 

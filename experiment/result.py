@@ -1,6 +1,7 @@
 from sklearn.metrics import confusion_matrix
 
 def clean_score(list_score) -> list[float]:
+    list_score = [extract_score(score) for score in list_score]
     list_score = [item.rstrip('.') if item.endswith('.') else item for item in list_score]
     list_score = [0 if item == '' else item for item in list_score]
     score_bin = [1 if item == '1'  else 0 for item in list_score]
@@ -31,3 +32,8 @@ def compute_score(prediction, ground_truth):
     recall = TP / (TP + FN)
     precision = TP / (TP + FP)
     return accuracy, f1_score, recall, precision
+
+def get_gt_pred(df, score_list):
+    prediction = clean_score(score_list)
+    ground_truth = df['Missing']
+    return prediction, ground_truth
