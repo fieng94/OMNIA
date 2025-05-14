@@ -20,11 +20,14 @@ def main(path, output_dir, setting="triples", subsetting='zero', top_k=2):
     # Generate missing data candidates
     print('Generating missing data candidates')
     evaluation_df, candidates_df, missing_df = preprocess.create_experiment_df(path)
-    # Filter using KGE
+    # Filter using KGE  
+    '''
     print('Filtering using Knowledge Graph Embedding (TransE)')
     filtred_df = filtering.create_filtred_df(df, evaluation_df, missing_df)
     filtred_df = filtred_df.merge(evaluation_df, how='left')
-    filtred_df_sample = filtering.create_sample(filtred_df,sample_size= 500, true_cand_ratio= 0.5)    
+    filtred_df_sample = filtering.create_sample(filtred_df,sample_size= 500, true_cand_ratio= 0.5)   
+    ''' 
+    filtred_df_sample = filtering.create_sample(evaluation_df, sample_size= 500, true_cand_ratio= 0.5)
     # Candidate validation using LLM
     print('Evaluation of missing data candidate')
     if subsetting == 'rag':
@@ -38,11 +41,11 @@ def main(path, output_dir, setting="triples", subsetting='zero', top_k=2):
             score_list = prep_llm.RAG_triple(filtred_df_sample, retriever)
     elif setting == 'sentences':
         if subsetting == 'zero':
-            score_list = prep_llm.plain_sentence(df)
+            score_list = prep_llm.plain_sentence(filtred_df_sample)
         elif subsetting == 'context':
             score_list = prep_llm.context_sentence(filtred_df_sample, df)
         elif subsetting == 'rag':
-            score_list = prep_llm.RAG_sentence(df, retriever)
+            score_list = prep_llm.RAG_sentence(filtred_df_sample, retriever)
     # Result extraction
     print('Finished Evaluation')
     print(f'Writing output in {output_dir}')

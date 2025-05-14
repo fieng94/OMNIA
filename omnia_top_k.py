@@ -21,10 +21,13 @@ def main(path, output_dir, setting="triples", subsetting='rag', top_k=2):
     print('Generating missing data candidates')
     evaluation_df, candidates_df, missing_df = preprocess.create_experiment_df(path)
     # Filter using KGE
+    '''
     print('Filtering using Knowledge Graph Embedding (TransE)')
     filtred_df = filtering.create_filtred_df(df, evaluation_df, missing_df)
     filtred_df = filtred_df.merge(evaluation_df, how='left')
-    filtred_df_sample = filtering.create_sample(filtred_df,sample_size= 500, true_cand_ratio= 0.5)    
+    filtred_df_sample = filtering.create_sample(filtred_df,sample_size= 500, true_cand_ratio= 0.5)   
+    ''' 
+    filtred_df_sample = filtering.create_sample(evaluation_df)
     # Candidate validation using LLM
     print('Evaluation of missing data candidate')
     if subsetting == 'rag':
