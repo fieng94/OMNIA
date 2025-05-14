@@ -6,7 +6,7 @@ from pykeen.models import TransE
 from pykeen.triples import TriplesFactory
 
 def get_triplet_emb(model: pykeen.models.TransE, triple_factory: pykeen.triples.TriplesFactory,
-                    head: str, relation: str, tail: str) -> (np.ndarray, np.ndarray, np.ndarray):
+                    head: str, relation: str, tail: str):
     """ Return the triplet embedding from model, dataset and triplet list """
     # get total entity embedding
     entities_embedding = model.entity_representations[0](
