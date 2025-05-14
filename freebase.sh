@@ -1,4 +1,3 @@
-source langchain-env/bin/activate
 # Define the list of top-k values as an array
 top_k=(1 2 3 4 5 10 15 20 50)
 data='freebase'

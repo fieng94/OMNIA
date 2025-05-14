@@ -1,1 +1,0 @@
-source langchain-env/bin/activate
