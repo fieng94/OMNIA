@@ -11,20 +11,20 @@ data='wordnet'
 # triple experiments
 echo "Testing triples method"
 echo "Zero shot"
-#python3 omnia.py  --path data/codex-l/data_sample.csv --output_dir results/${data} --setting triples --subsetting zero
+python3 omnia.py  --path data/${data}/data_sample.csv --output_dir results/${data} --setting triples --subsetting zero
 echo "Testing triples method"
 echo "In context"
-#python3 omnia.py  --path data/codex-l/data_sample.csv --output_dir results/${data} --setting triples --subsetting context
+python3 omnia.py  --path data/${data}/data_sample.csv --output_dir results/${data} --setting triples --subsetting context
 echo "Testing triples method"
 echo "RAG"
-#python3 omnia.py  --path data/codex-l/data_sample.csv --output_dir results/${data} --setting triples --subsetting rag 
+python3 omnia.py  --path data/${data}/data_sample.csv --output_dir results/${data} --setting triples --subsetting rag 
 # sentence experiments
 echo "Testing sentence method"
 echo "Zero shot"
-python3 omnia.py  --path data/codex-l/data_sample.csv --output_dir results/${data} --setting sentences --subsetting zero
+python3 omnia.py  --path data/${data}/data_sample.csv --output_dir results/${data} --setting sentences --subsetting zero
 echo "Testing sentence method"
 echo "In context"
-python3 omnia.py  --path data/codex-l/data_sample.csv --output_dir results/${data} --setting sentences --subsetting context
+python3 omnia.py  --path data/${data}/data_sample.csv --output_dir results/${data} --setting sentences --subsetting context
 echo "Testing sentence method"
 echo "RAG"
-python3 omnia.py  --path data/codex-l/data_sample.csv --output_dir results/${data} --setting sentences --subsetting rag
+python3 omnia.py  --path data/${data}/data_sample.csv --output_dir results/${data} --setting sentences --subsetting rag
