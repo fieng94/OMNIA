@@ -10,7 +10,7 @@ import numpy as np
 import pandas as pd
 import os
 
-def main(data_path, cand_path, output_dir, setting="triples", subsetting='zero', top_k=2):
+def main(data_path, cand_path, output_dir, setting="triples", subsetting='rag', top_k=2):
     # Checking if arg are correct
     assert setting in ['triples', 'sentences'], f"{setting} does not exist as setting!"
     assert subsetting in ['rag'], f"{subsetting} does not exist as subsetting!"
