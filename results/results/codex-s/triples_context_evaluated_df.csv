@@ -1,0 +1,501 @@
+,Head,Relation,Tail,Missing,distance,Pred
+103717,Clint Eastwood,place of death,Paris,0,2.6827006,0
+744454,Peter Buck,occupation,biologist,0,1.7752138,0
+846842,Samuel Johnson,cause of death,renal insufficiency,0,2.9925408,0
+393500,Ursula K. Le Guin,educated at,Yale University,0,1.6241956,0
+7872,Diana Arbenina,instrument,guitar,1,3.0593126,1
+550112,Carl Sagan,occupation,non-fiction writer,1,0.97053653,0
+550107,Carl Sagan,occupation,science fiction writer,1,0.76706237,1
+600866,Donald Trump,religion,Catholic Church,0,2.3815122,0
+44228,Drake,"languages spoken, written, or signed",English,1,3.1522508,1
+93770,Madagascar,diplomatic relation,North Korea,1,0.90201217,0
+350601,Jacques Derrida,occupation,university teacher,1,1.5492511,0
+700030,Ezra Pound,occupation,writer,1,1.5687522,1
+589235,Slavoj Žižek,occupation,engineer,0,1.1419309,0
+886481,Ricky Martin,country of citizenship,Albania,0,2.121497,0
+1205475,Sarah Brightman,residence,Hamburg,0,3.1041617,0
+821021,Soviet Union,diplomatic relation,Cape Verde,0,1.1178149,0
+85148,Rwanda,member of,International Telecommunication Union,1,1.0252568,1
+1176214,Georg Forster,"languages spoken, written, or signed",German,1,2.513136,0
+353995,Jean-Luc Godard,religion,atheism,0,2.5610783,0
+84906,South Africa,diplomatic relation,Japan,1,0.7777616,0
+492547,Hermann Usener,genre,hip hop music,0,2.8148181,0
+387114,Julio Cortázar,genre,new wave,0,2.5932546,0
+103880,Clint Eastwood,occupation,peace activist,1,1.596729,0
+3326,Mexico,member of,Asia-Pacific Economic Cooperation,1,1.6683778,1
+514742,Heinrich Brunner,"languages spoken, written, or signed",German,1,2.522317,1
+170078,Andy Griffith,occupation,musician,1,1.062119,0
+397027,Ronald Reagan,occupation,model,0,1.9422679,0
+528481,Walker Percy,occupation,choreographer,0,2.0102148,0
+303654,Botswana,member of,UNESCO,1,1.090369,1
+90232,Nepal,diplomatic relation,Hungary,1,0.9923916,1
+463954,Konstantin Simonov,employer,University of Oxford,0,1.9696302,0
+424084,Michail Sholokhov,occupation,poet,1,0.7190052,0
+25716,Johnny Cash,occupation,film actor,1,1.6271898,1
+534407,"John William Strutt, 3rd Baron Rayleigh",place of birth,Saint Petersburg,0,2.0025308,0
+665632,Augustine of Hippo,employer,Leipzig University,0,2.125996,0
+144,Australia,diplomatic relation,Antigua and Barbuda,1,1.1253481,1
+731513,Jim Morrison,cause of death,myocardial infarction,1,2.64692,0
+142942,Tara Strong,educated at,University College London,0,2.447503,1
+169618,Jimmy Buffett,occupation,recording artist,0,0.8243484,1
+121209,Herbie Hancock,genre,rhythm and blues,1,1.9946297,1
+85706,Valery Meladze,instrument,guitar,0,2.4392166,1
+1034190,Korney Chukovsky,occupation,children's writer,1,0.70503765,0
+798955,Dee Dee Bridgewater,place of death,Atlanta,0,2.9091935,0
+365456,Lebanon,member of,Universal Postal Union,1,1.20513,0
+151523,Sarah Brightman,country of citizenship,United Kingdom,1,2.1436622,1
+483885,Johann Wolfgang von Goethe,occupation,politician,1,1.0774815,0
+975750,Ignaz Moscheles,place of birth,Prague,1,2.8783574,1
+150030,Jared Leto,occupation,film actor,1,0.87664217,1
+1181322,Rick Wakeman,"languages spoken, written, or signed",Latin,0,3.3711772,0
+400117,Mikhail Zadornov,occupation,comedian,1,0.8514068,1
+669815,August Ludwig von Schlözer,employer,University of Göttingen,1,1.6900096,0
+112471,Adriano Celentano,residence,Bolivia,0,2.8025777,0
+452091,Michael Jackson,occupation,scientist,0,1.8606496,0
+923196,Ulf Ekberg,country of citizenship,Benin,0,1.7563092,0
+897254,Ray Lankester,spouse,Frank Sinatra,0,1.5990924,0
+47644,Ian McLagan,occupation,artist,0,1.4346629,0
+621352,Ivory Coast,member of,Interpol,1,1.2967583,1
+603738,Lord Byron,influenced by,David Hume,0,1.2579226,0
+539053,Max Born,member of,Bavarian Academy of Fine Arts,0,0.76770806,0
+872989,Paul Auster,sibling,Alyson Michalka,0,1.3224945,0
+1178791,Liberia,member of,"""African, Caribbean and Pacific Group of States""",1,0.9905459,0
+53381,Robin Gibb,country of citizenship,Lebanon,0,2.239934,0
+434775,Vince Vaughn,occupation,film actor,1,0.72680825,1
+656894,George Eliot,occupation,writer,1,0.78766394,1
+49685,Billie Holiday,occupation,composer,1,0.6156763,0
+826355,Miles Davis,spouse,Frank Sinatra,0,1.3196892,0
+379003,Oman,member of,International Telecommunication Union,1,0.94157934,1
+676753,Melanie Brown,unmarried partner,Britney Spears,0,1.3924247,1
+636767,Gotthold Ephraim Lessing,diplomatic relation,Slovenia,0,1.5917928,0
+16791,Dolly Parton,occupation,singer,1,1.1299399,0
+188816,Kid Cudi,occupation,film actor,1,1.15716,0
+916554,James Cameron,country of citizenship,South Africa,0,2.1313028,0
+570506,Lion Feuchtwanger,occupation,playwright,1,0.86795026,0
+621802,Qatar,member of,Arab League,1,1.0659103,1
+1170135,Hannes Alfvén,country of citizenship,Sweden,1,1.6612618,1
+1076235,Peter Handke,employer,Universal Music Group,0,2.8604305,0
+384270,Chinghiz Aitmatov,religion,Lutheranism,0,2.4692209,0
+580232,Salvador de Madariaga,influenced by,Emmanuel Swedenborg,0,1.4808062,0
+887875,"Alexander R. Todd, Baron Todd",child,Lisa Marie Presley,0,1.8446275,0
+228943,Dr. Dre,genre,hip hop music,1,2.7111604,1
+776889,Vincent Gallo,occupation,television director,0,1.327626,1
+716542,Simon Newcomb,record label,MCA Records,0,3.198101,1
+1248851,George Eliot,member of,International Energy Agency,0,2.2933125,0
+1152626,George Sand,place of birth,Santa Monica,0,1.7558095,0
+985371,Tunisia,employer,Princeton University,0,3.2266078,0
+309622,Joss Whedon,"languages spoken, written, or signed",English,1,2.927526,1
+671817,Sofia Kovalevskaya,educated at,Humboldt University of Berlin,1,1.2588538,0
+112570,Anton Bruckner,occupation,composer,1,0.8581468,1
+948091,Herman Melville,movement,Romanticism,1,2.4657087,1
+341326,Eugène Ionesco,occupation,writer,1,0.71875006,1
+518263,Herman Francis Mark,educated at,University of Vienna,1,1.768299,1
+634065,Friedrich Nietzsche,occupation,composer,1,1.2665135,0
+984757,Ilya Oleynikov,influenced by,John Kenneth Galbraith,0,1.5628084,0
+565978,Jacob Grimm,influenced by,Günter Grass,0,1.1757524,0
+348523,Romain Rolland,movement,literary realism,0,2.7329822,0
+622302,Chad,member of,African Union,1,1.0721756,1
+123406,Valery Meladze,record label,EMI,0,2.680215,1
+145063,Felix Mendelssohn,occupation,musician,1,0.8026648,1
+411022,Jack Black,instrument,voice,1,1.8183572,0
+367017,Japan,diplomatic relation,Saudi Arabia,1,0.6486234,0
+83191,Indonesia,member of,Asian Development Bank,1,1.0357381,1
+1224071,Duke Ellington,member of,USSR Union of Writers,0,1.4117765,0
+518204,Herman Francis Mark,employer,New York University,0,1.707799,0
+487628,Leó Szilárd,member of,American Academy of Arts and Sciences,1,0.8849922,1
+1056133,Max Frisch,influenced by,Romain Gary,0,0.81957024,0
+362762,Portugal,member of,Visa Waiver Program,1,0.7000324,0
+1055594,Anton Chekhov,influenced by,William Butler Yeats,0,0.42417267,0
+309539,Robert De Niro,genre,essay,0,2.762332,0
+82955,Sri Lanka,diplomatic relation,Russia,1,0.5578469,0
+1219607,Brandy Norwood,place of burial,New York City,0,5.7407093,0
+307394,Yevgeny Yevtushenko,occupation,poet,1,1.9405444,0
+325302,Andrei Konchalovsky,residence,Chicago,0,2.0414014,0
+976115,Bo Burnham,movement,new wave,0,3.1306765,0
+200911,Harry Connick Jr.,child,Enrique Iglesias,0,1.4547069,0
+334660,Morgan Freeman,occupation,character actor,1,1.7113825,0
+1158625,Arthur Miller,place of birth,Israel,0,2.1731367,0
+857544,Bernard-Henri Lévy,influenced by,Truman Capote,0,0.6276855,0
+813492,Sidney Poitier,occupation,film actor,1,0.9093573,1
+884592,Gordon Lightfoot,influenced by,Igor Stravinsky,0,1.3638068,0
+338316,André Gide,"languages spoken, written, or signed",Czech,0,3.2256675,0
+898077,Leó Szilárd,place of birth,Munich,0,2.8426125,0
+1174281,Josiah Willard Gibbs,place of burial,Novodevichy Cemetery,0,3.4928045,0
+1047559,Che Guevara,residence,Mexico,1,2.434839,1
+205946,William Shatner,occupation,film director,1,0.7361427,0
+47626,Ian McLagan,country of citizenship,United States of America,1,1.6289587,0
+1053669,Ludvig Holberg,influenced by,John Dos Passos,0,0.9875437,0
+13781,will.i.am,occupation,dancer,1,1.5966862,0
+700046,Ezra Pound,occupation,journalist,1,1.559075,0
+427397,Fred Hoyle,member of,Russian Academy of Sciences,0,1.3297397,0
+32533,T-Bone Walker,occupation,guitarist,1,0.82830435,0
+809602,Howard Hughes,field of work,entrepreneur,1,2.970669,1
+1037621,Hugo Huppert,occupation,author,1,0.7388498,1
+174122,Sticky Fingaz,occupation,writer,1,1.3395385,0
+395472,Aleksey Nikolayevich Tolstoy,country of citizenship,Greece,0,1.7027026,0
+2532,Hungary,diplomatic relation,Canada,1,0.7070124,0
+598261,Hugo Grotius,occupation,lawyer,1,1.7225169,1
+98079,Brendon Urie,genre,alternative rock,1,2.663405,1
+566056,Samuel Beckett,member of,Austrian Academy of Sciences,0,1.8245486,0
+527822,Heinrich Wilhelm Olbers,occupation,astronomer,1,1.7283162,1
+239648,James Brown,occupation,dancer,1,1.4466876,0
+511252,Paul Jozef Crutzen,member of,National Academy of Sciences,1,0.74241865,1
+1050184,Anthony Burgess,record label,Geffen Records,0,4.138429,1
+426878,Che Guevara,sibling,Tito Jackson,0,1.8749658,0
+455501,Frank Zappa,instrument,drum kit,1,2.3612049,1
+756454,Richard Sennett,influenced by,Gilles Deleuze,0,0.37179115,0
+284138,Bill Cosby,child,Zoë Kravitz,0,1.3815292,0
+488253,Andrey Vyshinsky,influenced by,Sam Cooke,0,1.6761112,0
+1039490,George Harrison,residence,Cambridge,0,2.5287097,0
+84808,Germany,member of,G20,1,1.0551038,0
+369607,Laos,diplomatic relation,Australia,1,0.68648297,0
+97156,Bo Burnham,occupation,screenwriter,1,0.70378053,1
+347164,Joseph Louis Gay-Lussac,field of work,chemistry,1,2.6543798,1
+169969,Jessica Simpson,genre,pop music,1,1.6243812,0
+5579,Denmark,diplomatic relation,Netherlands,1,0.45497733,1
+302333,Barbados,diplomatic relation,United States of America,1,0.98059857,0
+639116,Fritz Leiber Junior,country of citizenship,United States of America,1,1.382613,1
+147086,Lionel Hampton,instrument,percussion instrument,1,2.5876706,1
+185275,Hilary Duff,unmarried partner,Rihanna,0,1.2887515,0
+89953,Papua New Guinea,member of,Universal Postal Union,1,0.99313956,0
+451705,Milan Kundera,country of citizenship,Czechoslovakia,1,1.882064,1
+347104,Charles Baudelaire,genre,play,0,2.4655461,0
+568466,Raven-Symoné,sibling,Jackie Jackson,0,1.0760907,0
+1152019,John Desmond Bernal,occupation,rapper,0,2.099265,0
+7894,Diana Arbenina,instrument,voice,1,3.2195113,0
+745955,Tim Rose,influenced by,Thomas Aquinas,0,2.1464655,0
+622627,Namibia,diplomatic relation,Togo,0,1.0006535,0
+598537,Konstantin Simonov,influenced by,Walter Benjamin,0,0.44535482,0
+50021,Andrea Bocelli,genre,pop music,1,1.934792,1
+179002,Vitas,movement,atheism,0,3.2644815,0
+250185,Milla Jovovich,genre,pop music,1,2.1914876,0
+344940,Henri Poincaré,member of,Bavarian Academy of Sciences and Humanities,1,1.0659157,1
+848109,Charles Wheatstone,residence,Hamburg,0,3.4149947,0
+365150,Sweden,diplomatic relation,Belarus,1,0.24365419,1
+595737,Zhores Alfyorov,"languages spoken, written, or signed",Spanish,0,2.3588464,0
+30696,Ulf Ekberg,country of citizenship,Russia,0,1.6422778,0
+161781,Kate Bush,genre,alternative rock,1,2.1792917,1
+171466,Bill Monroe,occupation,singer,1,1.4030436,1
+881383,Don Rickles,residence,Hamburg,0,2.710626,0
+84798,Germany,diplomatic relation,Chile,1,0.69865173,0
+958361,Chuck Berry,record label,Atco Records,1,2.2630126,1
+94986,Togo,member of,African Development Bank,1,0.8498419,1
+440270,Jean-Paul Sartre,occupation,peace activist,1,1.5822206,0
+781615,Saul Bellow,ethnic group,Jewish people,1,2.8129044,0
+400555,William Faulkner,country of citizenship,United States of America,1,1.4546447,1
+104439,Ariana Grande,member of,Deutsche Akademie für Sprache und Dichtung,0,2.5081682,0
+44484,Drake,occupation,theater director,0,1.8090166,0
+3487,Philippines,diplomatic relation,Sweden,1,0.49424368,0
+607510,Lily Allen,unmarried partner,Jackie Jackson,0,1.3211229,0
+38355,Bob Mould,occupation,teacher,0,1.6056759,0
+335784,Clive Barker,occupation,science fiction writer,1,1.2757822,1
+367221,Slovenia,diplomatic relation,State of Palestine,0,0.50664884,0
+689178,Heinrich Schliemann,genre,heavy metal,0,2.7066984,0
+680376,Hayley Kiyoko,religion,Eastern Orthodox Church,0,3.403205,0
+181927,John de Lancie,place of birth,Nashville,0,2.8219748,0
+264744,Johnny Hallyday,occupation,opera singer,0,1.5289383,0
+454106,C. S. Lewis,influenced by,Saul Bellow,0,0.938397,0
+1020908,John Legend,sibling,Kylie Minogue,0,0.9022762,0
+752180,Gordon Parks,genre,classical music,0,2.3362162,0
+910391,Alice Walker,residence,Russian Empire,0,2.6033244,0
+618589,Van Morrison,country of citizenship,Gabon,0,2.2417438,0
+408989,T. S. Eliot,place of birth,Santa Monica,0,2.4066422,0
+61676,Tina Arena,record label,EMI,1,2.0948372,1
+883737,Angélique Kidjo,occupation,composer,1,0.28899503,1
+532485,Thomas Jefferson,influenced by,Albert Einstein,0,0.51470065,1
+170795,June Carter Cash,occupation,songwriter,1,1.1650966,1
+495376,Czech Republic,diplomatic relation,Liechtenstein,1,0.64629894,0
+569942,Argentina,member of,Universal Postal Union,1,1.0137962,1
+682114,Fritz Lang,unmarried partner,Nelly,0,1.3807145,0
+1202635,Marvin Gaye,diplomatic relation,Guinea,0,1.5113825,0
+1609,Greece,diplomatic relation,Azerbaijan,1,0.5663863,0
+1100011,Léo Ferré,child,Michael Mann,0,1.8915027,0
+436023,Michel Houellebecq,occupation,film director,1,1.0396267,1
+39690,Usher,influenced by,Jorge Amado,0,1.261232,0
+367510,Iceland,diplomatic relation,Russia,1,0.37385112,0
+702018,Gary Becker,occupation,scientist,1,1.1517923,0
+92282,Namibia,diplomatic relation,Zambia,1,1.0152719,0
+320684,Tom Hanks,occupation,film actor,1,1.1516573,0
+520100,Oswald Heer,influenced by,Arnold Schoenberg,0,0.37225503,0
+494554,Bulgaria,diplomatic relation,Algeria,0,0.66376525,0
+1046970,Augustine of Hippo,place of death,Boston,0,2.8720016,0
+293611,RuPaul,child,Charlotte Gainsbourg,0,1.7259884,0
+379226,Netherlands,diplomatic relation,Pakistan,1,0.49207717,0
+468576,Jack London,occupation,prosaist,1,0.9684886,1
+125731,Ingrid Michaelson,genre,pop music,1,2.0580077,1
+361710,Hector Berlioz,country of citizenship,Canada,0,2.58975,0
+458691,Steve Martin,occupation,non-fiction writer,0,1.8210672,0
+366795,Haiti,diplomatic relation,Austria,0,0.79432255,0
+1129408,Roger Penrose,country of citizenship,Latvia,0,2.283275,0
+605452,Joseph-Louis Lagrange,country of citizenship,Austrian Empire,0,2.7811964,0
+2141,People's Republic of China,member of,International Development Association,1,1.2157695,1
+297160,k.d. lang,occupation,guitarist,1,1.1370684,0
+237588,Jolin Tsai,spouse,Kurt Cobain,0,1.3016162,0
+50922,Nicki Minaj,place of birth,"Washington, D.C.",0,2.7633128,0
+582852,Giovanni Schiaparelli,member of,Royal Swedish Academy of Sciences,1,1.118128,1
+849018,J. R. R. Tolkien,influenced by,Honoré de Balzac,0,0.50286996,0
+3252,Mexico,diplomatic relation,Bolivia,1,0.5983417,0
+643572,David Hume,employer,Saint Petersburg Academy of Sciences,0,2.408553,0
+577776,Alexander Bogdanov,member of,German Academy of Sciences at Berlin,0,1.1022292,0
+338965,Éric Rohmer,country of citizenship,Italy,0,1.8491069,0
+51840,Donny Osmond,occupation,character actor,0,0.8656012,0
+156830,Lara Fabian,country of citizenship,Canada,1,1.7471102,0
+427167,Fred Hoyle,"languages spoken, written, or signed",English,1,2.6969004,0
+73003,Afrika Bambaataa,occupation,musician,1,0.9516143,0
+54524,Redman,ethnic group,African Americans,1,2.9484224,1
+130009,Yoko Ono,genre,new wave,1,2.0265484,0
+840467,Edward Sabine,country of citizenship,Romania,0,1.9325168,0
+437564,Marc Connelly,place of burial,Paris,0,5.021348,0
+197339,Liza Minnelli,country of citizenship,United States of America,1,1.7607741,1
+746681,CeeLo Green,influenced by,Miguel de Cervantes,0,1.5647306,0
+328828,Romain Gary,occupation,screenwriter,1,1.0919198,0
+127230,Luciano Berio,influenced by,Taylor Swift,0,1.4035344,0
+238152,Eddie Money,place of birth,Brooklyn,1,2.3388448,1
+4397,Trinidad and Tobago,diplomatic relation,United States of America,1,0.37199125,0
+799,Pakistan,diplomatic relation,Hungary,1,0.37369245,0
+441281,John Cleese,influenced by,Blaise Pascal,0,0.4764809,0
+728366,Nicki Minaj,spouse,Bobby Brown,0,0.50666153,0
+1080237,Anatole Abragam,member of,American Academy of Arts and Sciences,1,0.5621929,1
+843750,Marc Connelly,influenced by,Michel de Montaigne,0,0.70850414,0
+23179,Barry Gibb,influenced by,Drake,0,1.0466275,0
+1041812,J. Rodolfo Wilcock,sibling,Friedrich Schlegel,0,1.974946,0
+648571,André-Marie Ampère,employer,University of Oxford,0,1.8937413,0
+1254445,Mikhail Vassilyevich Lomonosov,diplomatic relation,Mexico,0,1.7807986,0
+335667,Clive Barker,occupation,film producer,1,1.150698,1
+1010774,Jean Cocteau,instrument,vocalist,0,3.8118076,0
+94786,Zambia,member of,World Trade Organization,1,1.0407599,0
+103366,Toni Braxton,record label,Arista,1,2.3208034,1
+295538,Bret Michaels,occupation,film director,1,1.0290835,1
+77814,Selena Gomez,occupation,film actor,1,0.9027236,1
+1128325,Melchior de Vogüé,influenced by,Lord Byron,0,1.2976317,0
+269294,Billy Dee Williams,occupation,fashion designer,0,1.4410836,0
+80916,Tanzania,diplomatic relation,Mexico,1,0.45255232,0
+87310,Vladimir Obruchev,occupation,writer,1,0.78442854,0
+980026,Melissa Auf der Maur,occupation,librarian,0,1.6096534,0
+366506,Honduras,member of,UNESCO,1,1.0813435,0
+1149783,Karl Mannheim,educated at,Heidelberg University,1,1.4530396,0
+455569,Frank Zappa,genre,rock music,1,1.8558748,0
+187848,Busta Rhymes,religion,Islam,1,3.467901,0
+197097,Christopher Lee,occupation,opera singer,1,1.3740697,0
+93781,Madagascar,diplomatic relation,India,1,0.83034784,0
+303168,Nauru,official language,Portuguese,0,2.221727,0
+84566,South Korea,diplomatic relation,Kazakhstan,1,0.72102755,0
+843577,Marc Connelly,educated at,University of Vienna,0,1.8991414,0
+144464,Dido,record label,Arista,1,2.1236622,0
+266576,Mark Wahlberg,instrument,drum kit,0,2.1799304,0
+848881,J. R. R. Tolkien,influenced by,Don DeLillo,0,1.1805935,0
+377859,Fiji,diplomatic relation,Germany,1,0.3155596,0
+350148,Pierre Boulez,occupation,professor,0,1.4640214,0
+1206776,Czech Republic,official language,Czech,1,1.5080204,0
+810313,William Dean Howells,religion,Lutheranism,0,2.6860757,0
+588952,Gore Vidal,member of,American Academy of Arts and Letters,1,0.6975033,1
+570827,Sebastian Haffner,country of citizenship,Weimar Republic,1,2.345615,1
+95227,Raven-Symoné,"languages spoken, written, or signed",English,1,3.0277987,1
+435684,Klaus Mann,educated at,Leipzig University,0,2.2370195,1
+4153,Bangladesh,diplomatic relation,Sierra Leone,1,0.51691806,1
+649542,Leon Trotsky,occupation,politician,1,0.8859273,0
+495795,Kenya,diplomatic relation,South Korea,1,0.52195626,0
+308621,Paul Auster,member of,American Academy of Arts and Letters,1,1.1685119,1
+1152342,Lev Gumilyov,influenced by,Philip Roth,0,0.979246,0
+269255,Billy Dee Williams,occupation,producer,0,1.0847851,0
+5390,Belarus,diplomatic relation,Finland,1,0.5389306,0
+1155362,Charlton Heston,educated at,University of Bonn,0,2.7881286,0
+874415,Tinashe,country of citizenship,Slovenia,0,2.3200064,0
+687556,Louis Armstrong,influenced by,Mel Brooks,0,0.7232451,1
+817083,Vanessa Carlton,influenced by,Fyodor Dostoyevsky,0,1.811697,0
+542314,Amos Oz,employer,Princeton University,0,2.248741,0
+999004,Julian Lennon,occupation,composer,1,1.0422127,1
+23169,Barry Gibb,record label,Atco Records,1,2.1263232,1
+913,Turkey,diplomatic relation,Croatia,1,0.6148926,0
+32521,T-Bone Walker,country of citizenship,United States of America,1,1.8719084,0
+234727,Lenny Kravitz,ethnic group,African Americans,1,3.1068463,1
+1087750,Ricky Gervais,employer,Saint Petersburg Academy of Sciences,0,2.9273386,0
+1078464,Jacobus Henricus van 't Hoff,influenced by,John Lennon,0,1.2450497,0
+781176,Lauren Bacall,occupation,producer,0,1.8425978,0
+609655,Nikolai Gogol,genre,prose,1,2.800244,0
+188313,Oleg Skripka,record label,Geffen Records,0,2.7102263,1
+439204,Henry James,member of,Phi Beta Kappa Society,1,1.2020612,0
+351373,Boris Vian,field of work,performing arts,1,1.7662904,1
+823204,Robert Louis Stevenson,child,Willow Smith,0,1.7290528,0
+872903,Tina Arena,place of death,Munich,0,2.8949378,0
+569449,Cuba,diplomatic relation,Spain,1,0.35488203,0
+965324,Maureen Tucker,influenced by,Immanuel Kant,0,1.7894648,0
+438609,Graham Greene,occupation,biologist,0,1.6626886,0
+622356,Chad,member of,Organisation internationale de la Francophonie,1,1.4872891,1
+852851,Yeshayahu Leibowitz,country of citizenship,Israel,1,2.0088506,0
+33900,Tito Jackson,unmarried partner,Joan Baez,0,1.0411264,1
+108614,Frédéric Chopin,genre,blues rock,0,2.3021624,0
+1017766,Edvard Radzinsky,occupation,presenter,1,1.1419307,0
+311897,Danny Glover,place of death,Beverly Hills,0,2.9787555,1
+591503,Ján Kollár,movement,atheism,0,2.332094,0
+715382,Andy Griffith,place of death,Chicago,0,2.868798,0
+45573,Bryan Ferry,occupation,guitarist,1,1.3508058,0
+171877,Doc Watson,instrument,organ,0,1.959446,1
+1174976,James Lighthill,influenced by,Heinrich Heine,0,1.4376194,0
+304251,Mauritius,member of,Interpol,1,0.8635571,1
+1016223,André 3000,influenced by,Robert Frost,0,1.4927206,0
+2575,Hungary,member of,Treaty on Open Skies,1,0.95401984,1
+1199244,Sammy Davis Jr.,continent,North America,0,2.725166,0
+660551,Søren Kierkegaard,educated at,Leipzig University,0,2.3870385,0
+840926,Mick Ronson,occupation,theologian,0,2.4428139,0
+110122,Alanis Morissette,instrument,harmonica,1,1.8692673,0
+745909,Tim Rose,country of citizenship,Japan,0,2.5942178,0
+553562,Albert Szent-Györgyi,member of,Russian Academy of Sciences,1,0.93163717,0
+363966,Republic of the Congo,diplomatic relation,Democratic Republic of the Congo,1,0.8124887,1
+2153,People's Republic of China,diplomatic relation,Ecuador,1,0.1544858,1
+273664,Josephine Baker,residence,New York City,1,2.2092638,1
+861644,Tony Visconti,influenced by,David Hume,0,1.8739063,1
+499769,Joseph E. Stiglitz,employer,Saint Petersburg Academy of Sciences,0,2.3148603,0
+457280,Charles Bukowski,influenced by,Allen Ginsberg,0,0.6826331,1
+368379,Poland,diplomatic relation,Australia,1,0.2524167,1
+189743,Shakira,"languages spoken, written, or signed",Portuguese,1,2.327413,0
+412572,Sean Lennon,influenced by,Jules Verne,0,1.7678708,0
+701986,Gary Becker,member of,Royal Prussian Academy of Sciences,0,0.62595963,0
+551092,Geoffrey Ingram Taylor,"languages spoken, written, or signed",English,1,2.6795006,1
+941035,James Blake,spouse,Carly Simon,0,0.4425438,0
+1209007,Gustav Kirchhoff,record label,Universal Music Group,0,3.3702579,1
+472480,Nora Ephron,educated at,Cornell University,0,1.7739952,0
+566783,Gloria Trevi,instrument,voice,1,1.9246631,0
+1143281,John Locke,residence,Prague,0,3.9073038,0
+3267,Mexico,member of,Organisation for the Prohibition of Chemical Weapons,1,1.0612494,1
+868703,Archibald Hill,residence,London,0,2.246767,1
+157627,Nikolay Ogarev,spouse,Neil Gaiman,0,1.3426765,0
+989051,Vatican City,official language,French,1,1.4685998,0
+946907,Little Richard,member of,Saint Petersburg Academy of Sciences,0,2.11614,0
+758254,Duke Ellington,member of,American Academy of Arts and Sciences,1,1.411265,1
+347422,Augustin-Louis Cauchy,field of work,mathematics,1,2.041649,0
+2511,Hungary,diplomatic relation,Sweden,1,0.6182741,0
+105145,Adam Levine,educated at,Princeton University,0,3.2912385,0
+1119835,Friedrich Engels,country of citizenship,Lebanon,0,1.3834898,0
+409847,Clint Eastwood,influenced by,Dino Buzzati,0,1.2427106,0
+391614,Ray Bradbury,movement,atheism,0,3.132098,0
+488236,Andrey Vyshinsky,occupation,poet lawyer,0,1.4483001,0
+920249,Bertrand Russell,spouse,Günther Anders,0,0.7783942,0
+308698,Paul Auster,medical condition,lung cancer,0,2.294407,1
+881981,D. H. Lawrence,instrument,percussion instrument,0,3.0494308,0
+592253,Ivan Franko,country of citizenship,Austria-Hungary,1,2.1224704,0
+82933,Sri Lanka,diplomatic relation,Indonesia,1,0.8159458,1
+252772,Ric Ocasek,unmarried partner,Yul Brynner,0,0.87899995,0
+343044,George Sand,occupation,diarist,1,1.2506131,1
+669185,Lev Gumilyov,occupation,anthropologist,1,1.7109838,0
+163510,Béla Bartók,country of citizenship,Hungary,1,2.4230871,1
+519378,Victor Ambartsumian,instrument,bass guitar,0,3.1481922,0
+19163,Paul Simon,country of citizenship,United States of America,1,2.0930202,1
+2784,Croatia,diplomatic relation,Denmark,1,0.2533493,0
+657832,Susan Sontag,influenced by,Leonhard Euler,0,1.1559885,0
+1090601,Lucio Dalla,employer,Saint Petersburg State University,0,2.977706,0
+20251,Renaud,occupation,multi-instrumentalist,0,1.2003906,0
+713679,Toni Morrison,occupation,children's writer,1,1.427674,0
+4754,United Kingdom,member of,NATO,1,0.7704236,1
+331600,Cree Summer,instrument,voice,1,1.823137,0
+169226,Kris Kristofferson,spouse,Carly Simon,0,0.33884913,0
+482427,Fazil Iskander,occupation,writer,1,0.8012858,1
+1050774,Suriname,diplomatic relation,Brazil,1,0.62158376,0
+596173,Leo Strauss,member of,American Academy of Arts and Sciences,1,1.3608055,1
+135607,Andriy Danylko,country of citizenship,Ukraine,1,3.1679296,0
+621989,Gabon,member of,UNESCO,1,0.6172807,0
+785906,Katy Perry,unmarried partner,Marlene Dietrich,0,1.6659498,0
+586803,Pierre-Joseph Proudhon,influenced by,Karl Marx,1,0.8680107,1
+131274,Hayley Williams,record label,Warner Music Group,0,1.8703115,1
+20961,Chris Brown,genre,dance music,1,2.523098,0
+700665,Nas,instrument,voice,1,2.0313108,0
+996961,Gloria Trevi,employer,Interscope Records,0,3.4511242,1
+2736,Taiwan,diplomatic relation,Democratic Republic of the Congo,1,0.78925854,1
+235876,Jason Newsted,country of citizenship,Austria,0,2.4970212,0
+750218,Michael Penn,influenced by,Ray Bradbury,0,1.7280529,0
+669596,Camille Jordan,member of,Austrian Academy of Sciences,0,1.0268773,0
+654512,Al-Biruni,influenced by,André Malraux,0,1.0354888,0
+831127,Crispin Glover,member of,Royal Prussian Academy of Sciences,0,1.2515815,0
+585395,Nikolay Semyonov,occupation,professor,1,1.42809,1
+662306,Carl Peter Thunberg,occupation,non-fiction writer,0,1.5240488,0
+354739,Albert Camus,influenced by,André Malraux,1,1.1819216,1
+666547,Jan Evangelista Purkyně,religion,Anglicanism,0,3.1358151,0
+91927,Jordan,member of,World Trade Organization,1,1.2749751,1
+69583,Lianne La Havas,occupation,pianist,1,0.92885375,0
+626351,Charles Babbage,occupation,economist,1,1.7916769,0
+168687,Jemaine Clement,occupation,film director,1,0.5689065,1
+578872,Sven Hedin,religion,Catholicism,0,2.5154307,0
+4138,Bangladesh,member of,World Trade Organization,1,0.90645826,1
+905029,Kate Bush,influenced by,Ludwig Wittgenstein,0,1.6821251,0
+238711,Kris Kristofferson,unmarried partner,Selena Gomez,0,0.66701066,0
+366728,Haiti,member of,International Centre for Settlement of Investment Disputes,1,0.956733,0
+704463,Gore Vidal,sibling,Kevin Jonas,0,1.958081,0
+732499,Martin Sheen,influenced by,Maya Angelou,0,1.4139408,1
+120080,AJ Michalka,field of work,musical composition,1,1.538665,1
+342052,Melchior de Vogüé,"languages spoken, written, or signed",French,1,2.104355,0
+146896,Sammy Davis Jr.,occupation,playwright,0,0.6894919,0
+1079063,Brigitte Bardot,influenced by,Thomas Hobbes,0,0.93686044,0
+986755,Tatyana Tolstaya,place of birth,Saint Petersburg,1,2.5597093,0
+1088220,Ernst Chladni,cause of death,cancer,0,3.7432208,0
+81079,Ukraine,diplomatic relation,Malaysia,1,0.68713593,0
+874620,Paul McCartney,country of citizenship,Belarus,0,1.9921491,0
+93679,Madagascar,continent,Africa,1,1.7361909,1
+99913,Sun Ra,"languages spoken, written, or signed",Arabic,0,2.7130625,0
+728666,John Updike,unmarried partner,Rihanna,0,1.3415474,0
+81516,North Korea,member of,UNESCO,1,0.8883224,1
+345790,Jean-Antoine-Nicolas de Caritat de Condorcet,occupation,singer,0,1.3215998,0
+764502,"Clarence ""Gatemouth"" Brown",influenced by,Walter Benjamin,0,1.4743495,0
+988985,Vatican City,member of,Council of Europe,0,0.99539846,0
+285428,Felipe Colombo,genre,contemporary folk music,0,2.7407725,1
+735035,Nicole Scherzinger,occupation,historian,0,1.8879542,0
+579687,Stanislao Cannizzaro,spouse,Frédéric Joliot-Curie,0,0.96613425,0
+426769,Che Guevara,country of citizenship,Argentina,1,1.3663046,1
+359239,Antoine César Becquerel,occupation,pianist,0,1.1920991,0
+582318,Rita Levi-Montalcini,child,Nikita Mikhalkov,0,2.4984028,0
+460210,Dudley Moore,influenced by,Milan Kundera,0,1.2811775,0
+690430,Randy Newman,place of death,Boston,0,2.862457,0
+668485,Yeshayahu Leibowitz,educated at,Humboldt University of Berlin,1,1.8937731,0
+1199485,Lonnie Liston Smith,diplomatic relation,Dominican Republic,0,1.8341534,0
+82652,Angola,diplomatic relation,Cape Verde,1,0.94638175,1
+302146,Antigua and Barbuda,member of,Organisation for the Prohibition of Chemical Weapons,1,1.331047,0
+17541,Kiely Williams,record label,Epic,1,1.8804095,1
+447235,Alice Walker,country of citizenship,United States of America,1,1.678956,1
+531202,Martin Buber,member of,Royal Society of Edinburgh,0,1.3979577,1
+133121,Nino Rota,record label,Geffen Records,0,2.9896648,1
+148028,Aaron Copland,member of,American Academy of Arts and Sciences,1,1.9904426,1
+114580,Sarah McLachlan,occupation,singer-songwriter,1,0.8398621,1
+403725,Ricky Gervais,residence,Kingdom of Italy,0,2.2605162,0
+801029,Kevin Costner,influenced by,Hannah Arendt,0,1.8701246,0
+505202,Ludwig Prandtl,educated at,Ludwig Maximilian University of Munich,1,2.0971422,0
+350281,Siméon Denis Poisson,"languages spoken, written, or signed",French,1,2.0994034,1
+359108,Antoine César Becquerel,member of,Royal Society,1,0.9781261,0
+244397,Macy Gray,sibling,Jackie Jackson,0,1.4728833,0
+284017,Bill Cosby,occupation,producer,1,1.3203135,1
+32894,M.I.A.,occupation,record producer,1,0.80699575,0
+82085,Zimbabwe,diplomatic relation,Israel,1,0.41546732,0
+504842,Ludwig Prandtl,member of,Royal Prussian Academy of Sciences,1,0.97095466,1
+1194987,Ciara,diplomatic relation,Poland,0,1.2047733,0
+504412,Roman Jakobson,member of,Serbian Academy of Sciences and Arts,1,1.0778447,1
+949432,Vince Gill,instrument,voice,1,1.7982723,1
+1106139,Anton Chekhov,influenced by,Guy de Maupassant,1,1.1607836,0
+53474,Billy Bob Thornton,"languages spoken, written, or signed",English,1,2.3315597,1
+428628,A. A. Milne,occupation,prosaist,1,1.1047637,0
+1055010,Karel Čapek,"languages spoken, written, or signed",French,1,2.496674,1
+545486,Steven Weinberg,country of citizenship,Russian Soviet Federative Socialist Republic,0,1.7692221,0
+665112,Ernst Mach,occupation,music theorist,0,1.7235507,0
+537523,Paul G. Allen,occupation,composer,1,1.6626993,0
+497874,Urbain Le Verrier,educated at,University of Vienna,0,1.8493624,1
+764804,Adam Lambert,member of,Accademia Nazionale delle Scienze detta dei XL,0,2.274663,0
+118584,Ani Lorak,occupation,presenter,1,0.63674206,1
+666056,Lewis Carroll,country of citizenship,Austrian Empire,0,2.7357113,0
+7037,David Bowie,place of death,London,0,2.8648956,1
+397559,Don DeLillo,influenced by,Dante Alighieri,0,0.7593541,0
+458912,Alan Arkin,occupation,biographer,0,0.9966686,0
+606471,Suzi Quatro,country of citizenship,Mexico,0,2.3645103,0
+184451,Norman Wisdom,occupation,singer,1,1.4011437,0
+772321,Paula Abdul,member of,Royal Swedish Academy of Sciences,0,1.7675118,0
+997457,Milva,instrument,voice,1,1.8004107,1
+666987,Ludwig Geiger,influenced by,Avicenna,0,0.7457695,0
+588774,Gore Vidal,occupation,playwright,1,1.0805348,0
+220828,Courtney Love,influenced by,Elvis Presley,0,0.9344671,0
+381407,Ireland,diplomatic relation,Zambia,1,0.708121,0
+91383,Tunisia,official language,Arabic,1,1.5937425,1
+1228896,Tamara Bunke,country of citizenship,Kingdom of the Netherlands,0,1.6272427,0
+401627,Erich Kästner,occupation,journalist,1,0.8974905,0
+90302,Nepal,diplomatic relation,Japan,1,0.62062764,0
+805640,Jeff Goldblum,influenced by,Whitney Houston,0,1.2396649,0
+84935,South Africa,diplomatic relation,Singapore,1,0.87139356,1
+458519,Steve Martin,employer,Harvard University,0,2.9410443,0
+85802,Fred Astaire,occupation,actor,1,0.8711341,0
+289037,Jill Scott,occupation,film actor,1,1.381606,0
+1145149,Leon Battista Alberti,spouse,Carly Simon,0,1.7214115,0

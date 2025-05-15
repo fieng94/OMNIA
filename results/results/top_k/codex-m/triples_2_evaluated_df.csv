@@ -1,0 +1,501 @@
+,Head,Relation,Tail,Missing,distance
+49,La Toya Jackson,genre,dance-pop,1,1.9468365
+603,Michael Kiwanuka,country of citizenship,Greece,0,2.115014
+417,Vietnam,member of,International Finance Corporation,1,2.021241
+683,Kingdom of the Netherlands,member of,International Centre for Settlement of Investment Disputes,1,1.8863524
+887,Bill Condon,country of citizenship,Czechoslovakia,0,2.32412
+716,Brad Wilk,spouse,Ben McKenzie,0,1.7842674
+581,Carmen Cervera,occupation,camera operator,0,1.4257388
+499,Josh Brolin,occupation,stage actor,1,0.8975721
+816,Oswald Heer,sibling,Julius von Mohl,0,1.8299482
+705,Konstantin Paustovsky,occupation,children's writer,1,1.7795686
+128,Frank Close,occupation,theoretical physicist,1,0.9674516
+612,Frank McCourt,occupation,socialite,0,1.9595104
+34,Lawrence Summers,occupation,American football player,0,1.3610874
+72,Salmaan Taseer,occupation,zoologist,0,0.71153665
+500,Des O'Connor,occupation,autobiographer,1,1.0031749
+535,Guglielmo Ferrero,occupation,journalist,1,1.270383
+833,Ed Sullivan,occupation,comedian,0,1.40991
+261,Brittany Murphy,occupation,film actor,1,0.90304464
+436,Manna Dey,country of citizenship,India,1,2.5558488
+12,Victor Glushkov,country of citizenship,Soviet Union,1,1.9135251
+597,James Ewing,influenced by,Hunter S. Thompson,0,2.3610077
+1,Rebecca Elson,country of citizenship,British Raj,0,1.9099395
+45,Wil Francis,occupation,programmer,0,2.0438032
+825,David Hemmings,place of death,Berlin,0,2.5276818
+0,Spencer Tracy,occupation,autobiographer,0,1.6009715
+876,Laura Innes,occupation,film actor,1,1.6863188
+342,Vladimir Mayakovsky,occupation,playwright,1,1.2233179
+460,Silvina Bullrich,occupation,journalist,1,0.89257663
+325,Corrado Alvaro,member of,"Royal Swedish Academy of Letters, History and Antiquities",0,2.2025852
+524,Sharon Van Etten,country of citizenship,United States of America,1,2.535365
+845,Croatia,diplomatic relation,Saudi Arabia,1,0.9300547
+300,Carl Hilty,occupation,politician,1,0.77721107
+677,Lena Headey,spouse,Al Jolson,0,1.3553226
+239,Filipp Golikov,occupation,children's writer,0,1.7916785
+211,Miriam Hopkins,occupation,journalist,0,1.7044779
+892,Katherine Anne Porter,spouse,Nadezhda Krupskaya,0,1.2956139
+479,Lou Lichtveld,occupation,organist,1,1.931098
+53,Augusto Pinochet,country of citizenship,Uruguay,0,2.6116006
+435,"John Browne, Baron Browne of Madingley",occupation,ornithologist,0,2.2770162
+307,Sagopa Kajmer,occupation,author,0,0.80407935
+222,Francis Ronalds,place of death,Cambridge,0,2.5184882
+634,Daniel Johnston,influenced by,Wolfgang Amadeus Mozart,0,2.1156158
+491,Sergey Sobyanin,occupation,engineer,1,0.917103
+117,Ashley Roberts,occupation,actor,1,1.3993149
+31,Ivan Solonevich,occupation,librarian,0,2.4991255
+542,Marion Lorne,sibling,Golo Mann,0,2.0809927
+830,Lene Marlin,occupation,camera operator,0,1.3224504
+881,Belize,diplomatic relation,Mexico,1,0.6866103
+631,Sarah Dawn Finer,occupation,jazz guitarist,0,1.3720509
+175,Robert Lindsay,country of citizenship,United Kingdom,1,1.9337735
+849,Alice Walker,occupation,educator,1,1.5518178
+594,Matej Bor,occupation,critic,1,1.4592713
+362,Torben Ulrich,occupation,film director,1,1.2478389
+685,Stephen King,occupation,keyboardist,0,0.6079818
+903,Michael Jackson,occupation,dancer,1,1.0692576
+762,Melanie Mayron,occupation,actor,1,1.215206
+288,Nathaniel P. Banks,occupation,pedagogue,0,1.0212767
+549,Charles G. Dawes,occupation,economist,1,0.92253083
+432,Anssi Kela,occupation,singer-songwriter,1,1.889782
+464,Republic of Cyprus,diplomatic relation,Egypt,1,0.937822
+771,Vaughn Monroe,occupation,musician,1,0.9762203
+736,Paul von Jankó,member of,Berlin-Brandenburg Academy of Sciences and Humanities,0,2.4089072
+492,Leo Arons,occupation,university teacher,1,1.0467709
+407,Pamela Anderson,occupation,voice actor,1,1.0935577
+98,Steven Bauer,country of citizenship,Cuba,1,2.132333
+613,Peter Cincotti,country of citizenship,Kingdom of Italy,0,2.237074
+721,Robin Hood,genre,drama film,1,2.5115502
+130,Josh Lucas,occupation,novelist,0,0.4883795
+844,Blind Blake,occupation,economist,0,1.4394991
+839,The Day the Earth Stood Still,country of origin,Canada,1,1.7642646
+707,Irving Howe,occupation,theologian,0,1.4129068
+159,Vladimir Bogoraz,occupation,photographer,0,0.9555818
+519,Ukraine,diplomatic relation,Sweden,1,0.5951274
+661,Bill Frist,member of,International Olympic Committee,0,2.399452
+108,Henry Cabot Lodge Jr.,occupation,politician,1,2.0399215
+538,Anne Haigis,occupation,astrophysicist,0,2.1662722
+163,Matt Groening,occupation,cartoonist,1,2.238383
+23,Gerald Ford,country of citizenship,United States of America,1,1.9957074
+206,Manfred Riedel,occupation,journalist,0,1.961282
+485,Watts Humphrey,occupation,writer,1,1.3006747
+331,Julius Adams Stratton,occupation,university teacher,1,0.88587964
+751,Olivia Holt,occupation,actor,1,0.8452938
+882,Bill Viola,occupation,screenwriter,1,0.7648876
+142,Karen Black,occupation,singer,1,1.0090717
+934,LaVern Baker,occupation,bassist,0,2.0149736
+710,Keri Hilson,occupation,film producer,0,1.5526452
+623,Diane Ladd,spouse,Melania Trump,0,1.5110319
+727,Blu Mankuma,occupation,composer,1,0.7930884
+272,"Robert Samuel Langer, Jr.",member of,American Academy of Arts and Sciences,1,1.6613002
+510,Roman Polanski,occupation,creator,0,1.8403064
+884,Gustav Heinemann,occupation,mathematician,0,1.849739
+346,John Ciardi,occupation,philosopher,0,0.95498794
+254,L. Ron Hubbard,occupation,science fiction writer,1,1.3975282
+660,Birgit Lohmeyer,occupation,politician,1,1.6424026
+738,Kim Newman,country of citizenship,United Kingdom,1,1.9558678
+813,Ludwig Ferdinand Clauß,occupation,lawyer,0,1.7227739
+101,Minken Fosheim,occupation,writer,1,1.2086884
+694,Rhonda Fleming,country of citizenship,United States of America,1,2.1118479
+50,Jim Morrison,educated at,"""University of California, Los Angeles""",1,2.5745175
+232,Andrew Lang,member of,Royal Swedish Academy of Sciences,1,2.443392
+841,Dagmar Berghoff,occupation,podcaster,0,2.0168438
+774,Margit Bara,country of citizenship,United Kingdom,0,2.144541
+296,John Lennon,genre,psychedelic rock,1,2.2383318
+722,Koblenz,member of,Climate Alliance,1,2.3068478
+255,Edward Albee,occupation,writer,1,2.073384
+312,Kelly Rowland,occupation,model,1,1.1034977
+943,Tammi Terrell,country of citizenship,United States of America,1,2.2572587
+115,Heinrich Graf von Einsiedel,place of death,London,0,2.6131172
+405,Hilde Spiel,occupation,journalist,1,1.3251375
+220,Leslie Mann,occupation,actor,1,0.94472647
+212,Christos Papadimitriou,occupation,university teacher,1,1.0415908
+593,Slick Rick,occupation,acting,0,1.5984182
+260,Julio Baghy,occupation,children's writer,0,1.6311321
+630,Johann August von Starck,occupation,university teacher,1,0.5398498
+263,Buddy Holly,occupation,record producer,1,1.499713
+193,Michał Czajkowski,occupation,journalist,1,1.8319166
+796,Liu Xiaobo,occupation,poet lawyer,0,1.9467918
+389,Pavel Jozef Šafárik,occupation,poet,1,1.6943008
+814,Carrie Underwood,occupation,singer,1,1.0830485
+136,Tristan Taormino,occupation,pianist,0,0.9519121
+359,Carmit Bachar,occupation,singer,1,0.7462611
+937,American Pie 2,country of origin,United States of America,1,0.9983449
+902,Rick Snyder,occupation,businessperson,1,1.8069289
+663,Clarence Clemons,spouse,Linda McCartney,0,1.6110022
+804,Malaysia,diplomatic relation,United Arab Emirates,1,0.42667222
+541,The Notorious Bettie Page,genre,comedy horror,0,2.1354182
+383,Virginia Woolf,occupation,film critic,0,1.8428442
+917,Johann Christian Poggendorff,country of citizenship,Lithuania,0,2.5161486
+714,Wolfgang Menzel,educated at,Lycée Saint-Louis,0,2.592974
+89,Ina Müller,member of,Sturmabteilung,0,2.1680348
+227,David Soul,genre,folk rock,0,2.403639
+666,Nikolai Ogarkov,country of citizenship,Bulgaria,0,1.6946824
+248,Gustaf Retzius,member of,Central Committee of the Communist Party of the Soviet Union,0,1.92935
+433,Mike Portnoy,spouse,Angelina Jolie,0,1.6800834
+241,Karl Kraus,country of citizenship,Italy,0,2.3104627
+543,Linda Park,country of citizenship,United States of America,1,2.0541296
+172,Anthony Hamilton,occupation,acting,0,1.0664968
+462,Republic of the Congo,member of,International Centre for Settlement of Investment Disputes,1,1.7779981
+333,Angela Carter,occupation,science fiction writer,1,1.2271707
+188,Max Hansen,occupation,jazz musician,0,0.9387392
+602,Baron Eligius Franz Joseph von Münch-Bellinghausen,occupation,psychiatrist,0,1.5054661
+226,George Perle,occupation,musicologist,1,1.6778861
+189,Michael Krüger,occupation,church historian,0,1.2378787
+199,Michael Gore,occupation,composer,1,0.7487818
+233,Lupe Fiasco,occupation,record producer,1,1.1377649
+824,Leo Strauss,occupation,philosopher,1,0.72738504
+489,Mark Wahlberg,spouse,Michelle Obama,0,0.5799865
+873,Christopher Tolkien,occupation,military personnel,0,1.7601745
+95,JoJo,occupation,musician,1,0.9362664
+121,Josiah Willard Gibbs,occupation,mathematician,1,0.529688
+590,Maximilian Schell,occupation,screenwriter,1,1.4232749
+483,August Schleicher,occupation,journalist,1,1.0304723
+291,Wilber Pan,occupation,investor,0,1.5526948
+832,Albert Wolff,occupation,journalist,1,1.7472955
+495,Lenny Breau,occupation,classical guitarist,1,1.6132967
+720,Rudy Rucker,occupation,writer,1,1.6801835
+671,Paddy Considine,occupation,executive producer,0,1.9690964
+775,Per Gessle,occupation,art historian,0,1.7705027
+391,Jean-Baptiste Lully,influenced by,Arthur Conan Doyle,0,2.0043254
+855,John Koerner,occupation,engineer,0,1.5668173
+145,John James Audubon,occupation,biographer,0,1.9264104
+898,Bob Dylan,occupation,painter,1,1.137857
+790,Ivan Mazepa,occupation,jazz musician,0,1.7371265
+467,Tom Mix,occupation,investor,0,2.223051
+196,Theodor Bergk,member of,Göttingen Academy of Sciences,1,2.570282
+347,Frigyes Karinthy,occupation,Esperantist,1,1.9714301
+806,Hugo Neumann,occupation,poet lawyer,1,2.5513287
+234,Theodor Mommsen,member of,Saint Petersburg Academy of Sciences,1,1.6859918
+21,Héctor Germán Oesterheld,country of citizenship,Republic of China (1912–1949),0,2.4050615
+46,Bosnia and Herzegovina,diplomatic relation,Russia,1,0.874561
+84,John Farnham,genre,poetry,0,2.5870218
+629,Alsou,genre,contemporary R&B,1,2.2622242
+194,Amy Lee,occupation,pianist,1,0.9905616
+946,Chen Xiaoxu,occupation,translator,0,1.5504028
+915,Johann Joseph Hoffmann,occupation,psychiatrist,0,1.0439783
+457,Woody Guthrie,occupation,musicologist,1,0.7489035
+889,Henri Bergson,member of,Academy of Sciences of Turin,1,2.433244
+924,Carl Friedrich von Weizsäcker,member of,Académie des Sciences Morales et Politiques,1,1.5857345
+586,Nikolay Dobrolyubov,occupation,religious servant,0,1.7666322
+320,Leopold Zunz,occupation,politician,1,1.0745918
+576,Bronisław Baczko,occupation,writer,1,0.9164952
+654,Samuel Bodman,occupation,businessperson,1,1.6215279
+61,Russell Brand,occupation,acting,0,1.5636345
+929,Chamillionaire,occupation,film actor,1,0.64321977
+877,Michael Fisher,country of citizenship,United Kingdom,1,2.4594138
+107,Maurice de Vlaminck,influenced by,Gottfried Wilhelm Leibniz,0,2.2273052
+102,Simone Signoret,occupation,aircraft pilot,0,2.0035274
+439,Martin Lewis Perl,member of,Royal Swedish Academy of Sciences,0,1.8704491
+39,Bobby Womack,occupation,film editor,0,0.84571266
+909,Albert Lortzing,occupation,composer,1,1.689683
+141,Orphan,genre,thriller film,1,2.0607903
+47,Jimmy Castor,occupation,politician,0,1.902255
+626,Israel,diplomatic relation,Holy See,1,0.73748726
+550,Arturo Toscanini,country of citizenship,Kingdom of Italy,1,1.961419
+67,Al Franken,country of citizenship,United States of America,1,2.0264642
+52,Vera Inber,occupation,pedagogue,0,1.7356719
+821,Joe Jonas,occupation,singer,1,1.1663101
+787,Oren Peli,country of citizenship,India,0,2.1828177
+118,Conrad Black,occupation,autobiographer,1,1.0125047
+428,Solange Knowles,occupation,playwright,0,1.8242341
+940,Marietta Shaginyan,occupation,theatre critic,0,1.3049142
+112,Jenna Jameson,occupation,model,1,1.0228964
+583,Palina Rojinski,country of citizenship,Hungary,0,2.0332804
+223,Lee Miller,occupation,photojournalist,1,2.5383382
+625,Édouard Brézin,member of,National Academy of Sciences,1,2.145269
+37,Charles Gounod,genre,symphony,1,2.596832
+125,James Blunt,occupation,musician,1,1.6494901
+651,Jonathan Demme,occupation,visual artist,0,1.6759697
+596,Ethel Smyth,occupation,historian,0,1.9451535
+317,"Wilfrid Normand, Baron Normand",occupation,cryptographer,0,2.1703568
+748,Patrick Macnee,occupation,film actor,1,0.89296794
+371,Juice Leskinen,genre,gangsta rap,0,2.4705117
+800,Benjamin Constant,country of citizenship,Switzerland,1,1.921862
+401,Alice Bradley Sheldon,country of citizenship,United States of America,1,2.098739
+512,Joe Bonamassa,occupation,composer,1,0.8172148
+461,Helmut Thielicke,occupation,writer,1,1.5394671
+755,Jeff Goldblum,spouse,David McCallum,0,0.9294884
+153,Georgia,diplomatic relation,Bulgaria,1,0.44893762
+208,Bud Spencer,occupation,screenwriter,0,0.8628706
+490,Charlaine Harris,occupation,scientist,0,1.6060854
+87,Theodore von Kármán,country of citizenship,Hungary,1,2.468041
+667,Joseph M. Juran,country of citizenship,United States of America,1,1.817101
+578,Nancy Sinatra,occupation,singer,1,1.4715992
+466,Tom Selleck,occupation,actor,1,0.5979148
+557,Flavor Flav,occupation,political activist,0,1.5989705
+619,Otto Sander,sibling,Sylvester Stallone,0,0.9301944
+840,Zacharie Astruc,occupation,poet,1,0.6622672
+922,Indonesia,member of,International Finance Corporation,1,2.0488427
+164,Elias Koteas,spouse,Penélope Cruz,0,0.7411002
+589,Satyajit Ray,occupation,film producer,1,0.9444466
+71,Caleb Carr,occupation,record producer,0,1.7405194
+351,François-René de Chateaubriand,occupation,translator,1,0.42453012
+470,Jonah Hill,occupation,comedian,1,0.996485
+598,Wilhelm Grimm,occupation,music critic,0,1.1232353
+182,Brian Kernighan,spouse,Brad Pitt,0,1.410364
+947,Vincent Gallo,occupation,professional wrestler,0,1.4387025
+687,Cliff Richard,country of citizenship,Spain,0,2.290399
+394,Robert Altman,country of citizenship,Ottoman Empire,0,2.085367
+368,Miyavi,occupation,singer-songwriter,1,0.73649234
+621,Gwendoline Yeo,occupation,voice actor,1,1.4699289
+773,Herbert Stothart,country of citizenship,United States of America,1,2.3352396
+782,David Baulcombe,occupation,stage actor,0,1.0665407
+904,Denis Johnston,occupation,songwriter,0,1.035276
+456,Harald Leipnitz,occupation,stage actor,1,1.3778136
+725,Alwin Schultz,occupation,university teacher,1,1.9748937
+33,Loren Bouchard,occupation,mineralogist,0,0.69669086
+891,"Patrick Blackett, Baron Blackett",occupation,multi-instrumentalist,0,2.4069521
+506,Virginia Madsen,spouse,Bobby Brown,0,1.5063399
+40,Roger Daltrey,occupation,architect,0,1.3594962
+744,George Tabori,spouse,Patricia Arquette,0,0.2768317
+192,Michael Cera,occupation,music producer,0,1.7996564
+409,Catherine Malfitano,occupation,saxophonist,0,1.5421125
+948,Karl Brunner,occupation,resistance fighter,0,1.1899978
+508,Iosif Utkin,country of citizenship,Spain,0,2.3423796
+116,Joe Cocker,occupation,singer,1,0.5775165
+502,John Frederic Daniell,occupation,inventor,1,1.7195001
+852,Sean Kingston,occupation,singer,1,1.8117441
+591,Claudia Cardinale,occupation,biographer,0,1.5666363
+267,Allan Sherman,occupation,songwriter,1,0.9562073
+648,Jenna Ushkowitz,occupation,film actor,1,0.46895856
+68,Stas Shurins,occupation,actor,1,1.223327
+238,Veronica Webb,occupation,politician,0,1.4679374
+215,Chelsea Clinton,occupation,entrepreneur,1,0.625586
+169,Jamie Dornan,occupation,model,1,1.6340431
+617,André Gide,country of citizenship,France,1,2.2970111
+119,Christopher Lloyd,occupation,translator,0,0.34406886
+472,Nancy Sinatra,occupation,seiyū,0,1.980838
+926,Marc Anthony,genre,baroque pop,0,2.2653933
+783,Nevio Passaro,occupation,singer,1,1.1943341
+673,Daniel Handler,occupation,writer,1,1.6468192
+455,Malcolm Young,occupation,record producer,1,1.3880616
+503,Friedrich von Gentz,educated at,University of Königsberg,1,2.4478726
+561,Sigfrid Edström,occupation,politician,1,1.6981944
+203,Hermann Höcherl,occupation,judge,1,1.0388392
+927,Kelsey Grammer,country of citizenship,Spain,0,2.3000674
+624,Paul Flory,occupation,glamour model,0,1.8218808
+284,Hans Apel,country of citizenship,Germany,1,2.288157
+301,New Zealand,member of,Group on Earth Observations,1,1.9067824
+302,Karl Astel,member of,Deutschvölkischer Schutz und Trutzbund,1,2.2188654
+447,Katt Williams,occupation,film producer,1,1.0513482
+772,North Korea,diplomatic relation,New Zealand,1,0.49522692
+828,Diane Birch,occupation,singer,1,0.982367
+398,Mike Judge,occupation,journalist,1,0.65423244
+416,Alexis Denisof,occupation,glamour model,0,0.71405697
+289,Julie Christie,occupation,stage actor,1,0.9661529
+569,Hannes Jaenicke,country of citizenship,British Hong Kong,0,2.6064367
+468,Lee Ryan,occupation,film score composer,0,1.340404
+304,Bolivia,diplomatic relation,South Africa,1,0.55018556
+103,RZA,sibling,Magnus von Braun,0,1.7678065
+650,Willi Hennig,occupation,comics artist,0,1.4604542
+484,Shaun Cassidy,occupation,record producer,0,1.2784481
+453,Bianca Lawson,occupation,YouTuber,0,1.555499
+275,Smiley Lewis,spouse,Richard Sennett,0,1.578007
+83,Sticky Fingaz,occupation,film actor,1,1.1053532
+706,Patrick Wilson,occupation,television actor,1,0.9895643
+111,Jared Diamond,spouse,Elizabeth Montgomery,0,2.36623
+618,Milena Jesenská,occupation,writer,1,0.9501405
+92,Heinrich Eduard Jacob,occupation,guitarist,0,1.2422408
+609,Alexander Ostrovsky,genre,hip hop music,0,2.3144526
+69,James Mason,occupation,film actor,1,0.8501605
+156,Ludvig Holberg,occupation,essayist,1,1.0382435
+437,Janet Jackson,spouse,David Otunga,0,1.6483244
+236,Marco Antonio Solís,occupation,actor,1,1.0986063
+551,Jonathan Winters,member of,American Physical Society,0,2.4458222
+537,José Maria de Eça de Queiroz,occupation,diplomat,1,1.3239771
+918,Friedrich Nietzsche,occupation,television presenter,0,0.56841326
+515,William Gilbert,occupation,singer-songwriter,0,1.6730042
+860,Tommy Flanagan,spouse,Gwyneth Paltrow,0,0.8440502
+866,David Irving,occupation,historian,1,0.78346545
+82,E. H. Carr,occupation,professor,1,0.5661549
+897,Rob Reiner,influenced by,Ernest Hemingway,0,2.034351
+754,Ottó Bláthy,country of citizenship,Armenia,0,2.4812853
+70,Oswald Heer,occupation,botanist,1,0.6151298
+880,Taryn Manning,occupation,actor,1,0.6525668
+875,Steven Strait,occupation,stunt performer,1,2.515385
+463,Gustav von Wangenheim,occupation,resistance fighter,1,0.73328847
+280,Hans Conrad Julius Reiter,influenced by,Georg Wilhelm Friedrich Hegel,0,1.4761757
+358,Sylvia Nasar,occupation,boxer,0,1.8606993
+857,Alexis de Tocqueville,occupation,sociologist,1,1.2174964
+308,Jovan Jovanović Zmaj,occupation,translator,1,1.7343059
+945,Vittorio De Sica,educated at,Temple University,0,2.602375
+493,The Air I Breathe,genre,romance film,1,2.5968602
+930,Svetlana Bondarchuk,place of death,Burbank,0,2.5576892
+743,Alexandra Paul,spouse,Alfred Molina,0,0.99847835
+290,Paul Oakenfold,occupation,disc jockey,1,1.835879
+120,Joseph Stalin,occupation,author,1,0.89498526
+282,Klemens von Metternich,occupation,university teacher,0,1.9355061
+799,Kenny Rogers,occupation,violinist,0,1.828537
+588,Werner Schroeter,influenced by,Søren Kierkegaard,0,1.8090378
+817,Floyd Council,genre,blues,1,2.4385211
+162,The Las Vegas Story,country of origin,United States of America,1,1.3324491
+253,Louise Bryant,occupation,peace activist,0,1.0738502
+607,Donald Knuth,genre,electronic rock,0,2.4717007
+644,Benedict Anderson,occupation,librettist,0,1.6295385
+419,Margaret Whiting,occupation,drawer,0,1.1666014
+35,Sofia Shinas,genre,pop music,1,1.9790648
+441,Adam Sandler,occupation,performance art,0,1.2152052
+695,Theodor Gottlieb von Hippel the Elder,occupation,character actor,0,0.87547714
+471,Ray Mabus,occupation,diplomat,1,1.756156
+657,Dolly Parton,occupation,singer,1,0.5448866
+585,Ruggiero Ricci,genre,jazz,0,2.580561
+11,Hugo Bücking,member of,Heidelberg Academy for Sciences and Humanities,1,2.390427
+406,Walter Rogowski,occupation,physicist,1,0.94685614
+124,Brazil,member of,Group on Earth Observations,1,2.0927799
+370,Jakob Adlung,sibling,Erika Mann,0,0.72502726
+379,Friedebert Tuglas,occupation,lawyer,0,1.5034927
+298,Albert Uderzo,occupation,screenwriter,1,1.3916799
+893,Charles Fenno Hoffman,genre,literary studies,0,2.141296
+678,Laurie Anderson,occupation,singer,1,0.64028543
+245,Leonid Leonov,sibling,Elisa Bonaparte,0,2.225642
+15,Max von Thun,occupation,germanist,0,1.1248204
+367,Hans-Dietrich Genscher,occupation,guitarist,0,1.9854592
+55,Bangladesh,diplomatic relation,South Korea,1,0.5564528
+400,Michael Mann,influenced by,Paul,0,2.44948
+48,Raymond Queneau,occupation,mathematician,1,1.5506803
+431,Kim Seong-su,occupation,writer,1,1.3811767
+711,Fazu Alieva,occupation,children's writer,0,2.0396097
+299,Robert Fogel,member of,American Academy of Arts and Letters,0,1.9362459
+764,Reri Grist,occupation,stage actor,0,1.9623162
+44,George Clooney,occupation,diplomat,0,0.56348073
+36,Igor Mikhajlovich Makarov,member of,Academy of Sciences of the USSR,1,2.585948
+271,Kit Harington,educated at,Choate Rosemary Hall,0,2.5403621
+174,Luigi Federico Menabrea,country of citizenship,Romania,0,2.3678403
+292,Gretchen Wilson,occupation,novelist,0,1.6760511
+237,Ernst Bertram,occupation,executive producer,0,1.9551442
+653,Snooky Pryor,genre,children's literature,0,2.3720915
+123,Saudi Arabia,diplomatic relation,Thailand,1,0.5008364
+811,Tina Kandelaki,occupation,television producer,1,1.0827495
+94,Leonard Maltin,occupation,physician writer,0,1.8520207
+139,Mexico,diplomatic relation,Solomon Islands,0,0.6131339
+249,Jakob von Uexkull,occupation,revolutionary,0,1.3601497
+604,Charles Williams,influenced by,Henry James,0,2.3496513
+51,Toby Jones,country of citizenship,German Democratic Republic,0,2.1790736
+105,Christian Burns,occupation,singer-songwriter,1,1.42138
+776,Tuvya Ruebner,occupation,author,1,1.6809174
+393,Heinz Ellenberg,member of,British Academy,0,2.2081072
+842,Sándor Márai,country of citizenship,Israel,0,2.4653451
+739,Germany,diplomatic relation,Cameroon,1,0.55803365
+920,David Kahn,occupation,university teacher,0,1.9971983
+616,Georges Brassens,spouse,Sean Connery,0,2.0795
+853,Ivan Kovalchenko,country of citizenship,Russia,1,1.9011469
+741,Zohar Manna,member of,Russian Academy of Sciences,0,2.2601113
+449,Željko Ivanek,occupation,songwriter,0,1.5507576
+777,Ronald Evans,occupation,engineer,1,1.566427
+579,Eva Mendes,occupation,creator,0,1.1758568
+766,Theodore von Kármán,educated at,Smith College,0,2.4445188
+18,Toshirō Mifune,occupation,film actor,1,0.8666416
+521,Guyana,member of,International Centre for Settlement of Investment Disputes,1,1.9957865
+38,Mario José Molina y Henríquez,occupation,explorer,0,1.7326195
+386,Mike Jones,occupation,musician,1,0.9621969
+25,Vasily Latyshev,occupation,memoirist,0,1.5262829
+363,Raquel Castro,occupation,singer-songwriter,1,1.3320106
+197,James Roday,occupation,humorist,0,1.4701425
+348,Alexander Ginzburg,country of citizenship,France,1,2.213841
+243,William Wyler,occupation,memoirist,0,1.1040107
+350,Morgan Woodward,spouse,Adriano Celentano,0,1.3481975
+349,Amy Poehler,occupation,film actor,1,1.1599386
+106,Adam Lambert,occupation,science fiction writer,0,1.5938029
+138,Lila Downs,occupation,film actor,1,0.84240913
+376,Thomas Arne,occupation,librarian,0,1.9250082
+77,David Cronenberg,occupation,film actor,1,1.233463
+571,Zambia,diplomatic relation,Russia,1,0.7014032
+795,Thomas Gottschalk,sibling,Elisabeth Mann Borgese,0,1.5190438
+64,Ana Kasparian,member of,Académie Nationale de Médecine,0,2.5403938
+191,Jean Cocteau,occupation,playwright,1,0.9437762
+6,Marvin Gaye,member of,Alpha Phi Alpha,0,2.5854788
+85,Nami Tamaki,occupation,public figure,0,1.2977163
+861,Richard Tauber,occupation,opera singer,1,1.4091167
+835,Friedrich Justin Bertuch,member of,Hellenic Philological Society of Constantinople,0,2.5161543
+562,Katie Price,occupation,writer,1,0.35050428
+311,Jacques Friedel,member of,American Academy of Arts and Sciences,1,1.6727179
+297,Guglielmo Marconi,occupation,engineer,1,1.666608
+147,Katelyn Tarver,spouse,Lew Ayres,0,2.1614459
+473,Be Kind Rewind,narrative location,Pittsburgh,0,2.0811162
+935,Karl Heinrich von Stein,occupation,non-fiction writer,0,1.8447753
+380,Bulgaria,diplomatic relation,Kosovo,1,0.5171898
+27,Eric Idle,occupation,lyricist,1,0.8075992
+632,Ambrose,occupation,writer,1,1.4196647
+17,Dannii Minogue,occupation,model,1,0.72595364
+126,Luís de Camões,country of citizenship,Bahamas,0,2.220113
+273,Kaitlin Olson,sibling,Alexis Arquette,0,1.331104
+812,James Roday,spouse,Alexandra Maria Lara,0,1.5335389
+279,Syria,diplomatic relation,Malaysia,1,0.42324907
+425,Carl Bosch,member of,Royal Swedish Academy of Sciences,1,1.8005131
+476,Pio Baroja,occupation,writer,1,1.5850422
+444,Víctor Jara,occupation,politician,1,1.2730492
+5,Horst Möller,member of,Bavarian Academy of Sciences and Humanities,1,1.5795046
+412,Homero Manzi,country of citizenship,Argentina,1,2.311805
+761,Stefan Zweig,member of,Royal Swedish Academy of Sciences,0,2.1490283
+446,Helen Hunt,occupation,diplomat,0,1.6278801
+165,Haiti,diplomatic relation,Venezuela,1,0.28303
+113,Jorge Riechmann,occupation,translator,1,0.70267075
+698,Thomas Fritsch,occupation,musician,0,1.9832716
+251,Lev Kassil,member of,USSR Union of Writers,1,1.7062504
+423,Peter Debye,member of,Heidelberg Academy for Sciences and Humanities,1,1.7929913
+699,Andy Warhol,occupation,playwright,0,1.8490233
+544,Bruce McCandless II,country of citizenship,German Reich,0,2.1641874
+160,James Arthur,genre,opera,0,2.1639147
+534,Claude Shannon,occupation,science fiction writer,0,1.1595705
+713,Martin Freeman,occupation,business executive,0,1.962689
+717,John Bowring,occupation,diplomat,1,1.6504381
+385,Jamaica,member of,Caribbean Community Secretariat,1,1.7465805
+63,Rachel Ticotin,occupation,stage actor,1,1.3661115
+360,The Black Dahlia,country of origin,France,1,1.605955
+177,Eugen Rosenstock-Huessy,country of citizenship,United States of America,1,1.8699819
+899,Maximilien Robespierre,occupation,essayist,0,1.415877
+259,Ryan Murphy,occupation,journalist,1,1.2470356
+137,Gabriele D'Annunzio,occupation,jazz musician,0,1.4410073
+127,Wilson Greatbatch,occupation,diplomat,0,1.6265665
+605,Tony Hoare,occupation,computer scientist,1,1.1381487
+928,Robert Simpson Woodward,member of,American Academy of Arts and Sciences,1,1.6806546
+16,Buckminster Fuller,cause of death,cancer,1,2.4981313
+808,Chow Yun-fat,country of citizenship,United States of America,0,2.4710424
+620,Bobby Ellsworth,genre,adult contemporary music,0,2.362938
+815,Sergio Badilla Castillo,occupation,university teacher,0,0.87797725
+734,Thomas de Maizière,occupation,geologist,0,0.99302495
+752,Suzy Amis Cameron,occupation,television actor,1,0.90062225
+496,W. Ross Ashby,occupation,lecturer,0,1.8904159
+905,Raphael Sbarge,spouse,Aaliyah,0,1.5862321
+938,Cécile Tormay,occupation,physician,0,2.1316545
+482,Michael Gaston,occupation,comics artist,0,1.0344205
+862,Enzo Biagi,influenced by,Joseph E. Stiglitz,0,1.847263
+388,Howlin' Wolf,occupation,musician,1,1.014404
+318,John Heinz,occupation,athlete,0,2.1234305
+656,Dave Dee,member of,Royal Society,0,2.1005738
+747,Jane Fonda,occupation,professor,0,1.8401262
+395,Boyko Borisov,occupation,association football player,1,1.2522975
+198,Willi Sitte,country of citizenship,Germany,1,1.6202475
+109,Stefano Benni,occupation,novelist,1,1.4893156
+737,Jude Law,spouse,Johnny Hallyday,0,1.4796761
+646,Alfred Thayer Mahan,occupation,political scientist,1,0.9764933
+146,Salmaan Taseer,country of citizenship,Kingdom of Prussia,0,2.486904
+488,Rosario María Gutiérrez Eskildsen,occupation,musician,0,1.2126483
+595,Christian Lorenz,occupation,stage actor,0,1.368815
+936,Jana Kramer,occupation,pianist,0,0.49436817
+746,Emilia Pardo Bazán,occupation,translator,0,0.5206423
+256,Octave Mirbeau,occupation,writer,1,0.62067735
+309,Daryl Hannah,country of citizenship,British Hong Kong,0,2.5054004
+900,Bassam Tibi,occupation,revolutionary,0,1.5361536
+93,Jonathan Banks,occupation,television actor,1,1.0714251
+86,Miska Hauser,occupation,physicist,0,0.56925255
+931,Alexis de Tocqueville,country of citizenship,France,1,1.8720965
+944,Bronisław Geremek,occupation,historian,1,0.631028
+384,Jerzy Putrament,influenced by,Bob Hope,0,1.6756496
+888,Franz Josef Degenhardt,occupation,poet lawyer,1,1.7236919
+327,Ferenc Karinthy,occupation,astrophysicist,0,1.4743283
+846,Alexander Cunningham,occupation,television presenter,0,1.0394814
+728,Richard G. Hovannisian,occupation,musician,0,1.5555371
+864,Shing-Tung Yau,occupation,zoologist,0,1.3766564
+843,Bill Mumy,occupation,singer-songwriter,0,0.7808344
+501,Wolfgang Wodarg,occupation,salonnière,0,1.8551948
+131,James D. Watson,member of,Academia Europaea,1,2.4939451
+886,Yakiv Holovatsky,occupation,archivist,0,1.2758968
+328,Zdeněk Svěrák,occupation,non-fiction writer,0,0.67302495
+100,Joe Elliott,occupation,composer,1,0.47896954
+750,Leopold Gratz,occupation,diplomat,1,1.4254719
+135,Friedrich Christian Diez,occupation,writer,1,1.3367085
+487,Vietnam,diplomatic relation,India,1,0.23178488
+66,Cary Grant,occupation,religious servant,0,1.4061135
+740,Louis Garrel,occupation,film actor,1,0.43621916
