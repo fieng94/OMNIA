@@ -48,7 +48,7 @@ inquirerpy==0.3.4
 ipykernel==6.29.5
 ipython==8.28.0
 jedi==0.19.1
-Jinja2==3.1.4
+Jinja2==3.1.6
 jiter==0.6.1
 joblib==1.4.2
 jsonpatch==1.33
