@@ -29,7 +29,7 @@ def create_dataset(triples_df: pd.DataFrame) -> TriplesFactory:
 
 
 def create_pipeline(train_set: TriplesFactory, test_set: TriplesFactory, model_name: str, model_kwargs: dict,
-                    run_name: str, num_epochs: int = 50) -> pykeen.pipeline.pipeline:
+                    run_name: str, num_epochs: int = 50):
     """
     Create pipeline to train embedding model
     """
@@ -49,7 +49,4 @@ def create_pipeline(train_set: TriplesFactory, test_set: TriplesFactory, model_n
             "project": PROJECT_NAME,
         }
     )
-        
-       
-
     return train_pipeline
