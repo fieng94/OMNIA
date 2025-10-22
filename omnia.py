@@ -9,9 +9,11 @@ import experiment.result as result
 import numpy as np
 import pandas as pd
 import os
+import time
 
 def main(data_path, cand_path, output_dir, setting="triples", subsetting='zero', top_k=2):
     # Checking if arg are correct
+    start = time.perf_counter()
     assert setting in ['triples', 'sentences'], f"{setting} does not exist as setting!"
     assert subsetting in ['zero','context','rag'], f"{subsetting} does not exist as subsetting!"
     # Read data
@@ -46,11 +48,15 @@ def main(data_path, cand_path, output_dir, setting="triples", subsetting='zero',
     # output evaluated sample
     output_eval_df_path = os.path.join(output_dir,f'{setting}_{subsetting}_evaluated_df.csv')
     filtred_df_sample.to_csv(output_eval_df_path)
+    end = time.perf_counter()
     # output score
-    res = [accuracy,precision,recall,f1_score]
-    result_df =  pd.DataFrame([res], columns=["Accuracy", "Precision", "Recall", "F1 score"])
+    res = [accuracy,precision,recall,f1_score,end-start]
+    result_df =  pd.DataFrame([res], columns=["Accuracy", "Precision", "Recall", "F1 score","Execution time"])
     output_res_df_path = os.path.join(output_dir,f'{setting}_{subsetting}_results.csv')
+  
+    print(f"Execution time: {end - start:.2f} seconds")
     result_df.to_csv(output_res_df_path)
+
 
 
 
