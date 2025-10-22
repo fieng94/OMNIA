@@ -1,7 +1,7 @@
 # Define the list of top-k values as an array
 top_k=(1 2 3 4 5 10 15 20 50)
 data_name=('codex-m')
-data_list=(${data_name}_10000,${data_name}_20000,${data_name}_30000,${data_name}_40000,${data_name}_50000)
+data_list=(${data_name}_10000 ${data_name}_20000 ${data_name}_30000 ${data_name}_40000 ${data_name}_50000)
 
 # Loop through the array and run the Python program with each top-k value
 #for k in "${top_k[@]}"; do
@@ -13,21 +13,21 @@ for data in "${data_list[@]}"; do
 # triple experiments
     echo "Testing triples method"
     echo "Zero shot"
-    python3 omnia.py  --data_path data/${data}/data.csv --cand_path data/${data}/cand_sample_500.csv --output_dir results/${data} --setting triples --subsetting zero
+    python3 omnia.py  --data_path data/${data}/data_sample.csv --cand_path data/${data}/cand_sample_500.csv --output_dir results/${data} --setting triples --subsetting zero
     echo "Testing triples method"
     echo "In context"
-    python3 omnia.py  --data_path data/${data}/data.csv --cand_path data/${data}/cand_sample_500.csv --output_dir results/${data} --setting triples --subsetting context
+    python3 omnia.py  --data_path data/${data}/data_sample.csv --cand_path data/${data}/cand_sample_500.csv --output_dir results/${data} --setting triples --subsetting context
     echo "Testing triples method"
     echo "RAG"
-    python3 omnia.py  --data_path data/${data}/data.csv --cand_path data/${data}/cand_sample_500.csv --output_dir results/${data} --setting triples --subsetting rag 
+    python3 omnia.py  --data_path data/${data}/data_sample.csv --cand_path data/${data}/cand_sample_500.csv --output_dir results/${data} --setting triples --subsetting rag 
     # sentence experiments
     echo "Testing sentence method"
     echo "Zero shot"
-    python3 omnia.py  --data_path data/${data}/data.csv --cand_path data/${data}/cand_sample_500.csv --output_dir results/${data} --setting sentences --subsetting zero
+    python3 omnia.py  --data_path data/${data}/data_sample.csv --cand_path data/${data}/cand_sample_500.csv --output_dir results/${data} --setting sentences --subsetting zero
     echo "Testing sentence method"
     echo "In context"
-    python3 omnia.py  --data_path data/${data}/data.csv --cand_path data/${data}/cand_sample_500.csv --output_dir results/${data} --setting sentences --subsetting context
+    python3 omnia.py  --data_path data/${data}/data_sample.csv --cand_path data/${data}/cand_sample_500.csv --output_dir results/${data} --setting sentences --subsetting context
     echo "Testing sentence method"
     echo "RAG"
-    python3 omnia.py  --data_path data/${data}/data.csv --cand_path data/${data}/cand_sample_500.csv --output_dir results/${data} --setting sentences --subsetting rag
+    python3 omnia.py  --data_path data/${data}/data_sample.csv --cand_path data/${data}/cand_sample_500.csv --output_dir results/${data} --setting sentences --subsetting rag
 done
